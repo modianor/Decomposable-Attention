@@ -1,0 +1,720 @@
+0||CA 981 左转 航向 050 调配 间隔||调配 间隔 左转 航向 050 CA 981
+0||CA 981 航向 080 识别 转弯||航向 080 识别 转弯 CA 981
+0||国航 4811 近 地 告警 上升 到 修正 海压 900 米 修正 海压 1013||上升 到 修 压 900 米 修正 海压 1013 国航 4811
+0||春秋 8910 经过 A1 进 跑道 13||经过 A1 进 跑道 13 春秋 8910
+0||南方 304 121 . 86 再见||121 . 86 南方 304
+0||南方 6776 06 右 可以 起飞||可以 起飞 06 右 南方 6776
+0||南方 3016 25 右 可以 落地||25 右 可以 落地 南方 3016
+0||南方 6060 进近 26 左||进近 26 左 南方 6060
+0||深圳 9672 经过 A8 进 跑道 13||经过 A8 进 跑道 13 深圳 9672
+0||上航 4929 联系 广州 135 . 35 再见||135 . 35 上航 4929
+0||南方 386 地面 101 . 85 再见||地面 101 . 85 南方 386
+0||南方 6296 起飞 02 左||02 左 起飞 南方 6296
+0||国航 4334 25 左 可以 起飞||25 左 可以 起飞 国航 4334
+0||6314 27 左 跑道 外 等待||跑道 外 等待 27 左 6314
+0||南方 3822 21 左 可以 落地||可以 21 左 落地 南方 3822
+0||春秋 8910 联系 广州 135 . 35 再见||135 . 35 春秋 8910
+0||南方 6885 右转 脱离 沿 包车 向南||右转 脱离 沿 包车 向南 南方 6885
+0||南方 3922 联系 地面 121 . 85 再见||地面 121 . 85 南方 3922
+0||上航 9127 立即 中断 起飞||中断 起飞 上航 9127
+0||南方 3512 联系 地面 121 . 85 再见||121 . 85 南方 3512
+0||G - CD 右转 可以 起飞||可以 起飞 右转 G - CD
+0||春秋 8910 立即 中断 起飞||中断 起飞 春秋 8910
+0||CA 981 立即 中断 起飞||立即 中断 起飞 CA 981
+0||南方 3191 保持 6100 预计 过 大王庄 后 下降||保持 6100 南方 3191
+0||G - CD 延长 三边 第二 个 落地 跟在 B 737 后面 它 在 五边 8 公里 的 地方||延长 三边 第二 个 落地 跟在 B 737 后面 它 在 五边 8 公里 的 地方 G - CD
+0||CA 104 可以 低 高度 通场 36 号 右 跑道 高度 不 低于 150 米||可以 低 高度 通场 36 号 右 跑道 高度 不 低于 150 米 CA 104
+0||CA 981 复飞 跑道 上 有 飞机||复飞 跑道 上 有 飞机 CA 981
+0||白鹭 8412 下降 到 场 压 高度 1200 米 场 压 1015||下 到 场 压 高度 1200 米 场 压 1015 白鹭 8412
+0||深圳 9897 位置 在 本场 南侧 12 公里 左转 航向 320 下降 到 场 压 高度 900 米 场 压 1014||位置 在 本场 南侧 12 公里 左转 航向 320 下降 到 场 压 高度 900 米 场 压 1014 深圳 9897
+0||南方 3191 保持 5900 预计 过 大王庄 后 下降||保持 5900 南方 3191
+0||东方 进近 G - CD||G - CD 东方 进近
+0||CSN 3102 前机 报告 五边 有 风 切变||前机 报告 五边 有 风 切变 CSN 3102
+0||国航 3922 保持 6500 预计 过 大王庄 后 下降||保持 6500 国航 3922
+0||DLH 457 可以 直 飞 AA011 恢复 LADIX 1 RNAV 离场 按 程序 限制 执行||直 飞 AA011 恢复 LADIX 1 RNAV 离场 按 程序 限制 执行 DLH 457
+0||国航 4104 保持 6500 预计 过 大王庄 后 下降||保持 6500 国航 4104
+0||国航 4106 保持 6500 预计 过 大王庄 后 下降||保持 6500 国航 4106
+0||西藏 9832 可以 直 飞 AA011 恢复 LADIX 1 RNAV 离场 按 程序 限制 执行||直 飞 AA011 恢复 LADIX 1 RNAV 离场 按 程序 限制 执行 西藏 9832
+0||春秋 8910 近 地 告警 上升 到 修正 海压 900 米 修正 海压 1016||上升 到 修正 海压 900 米 修正 海压 1016 春秋 8910
+0||南方 3191 保持 5600 预计 过 大王庄 后 下降||保持 5600 南方 3191
+0||昆明 进近 CES - 747 21 跑道 起飞 了 通过 2100 上升 高度 3000||21 跑道 起飞 了 通过 上升 2100 高度 3000 昆明 进近 CES - 747
+0||CES - 747 稍等 上升 由于 间隔||稍等 上升 由于 间隔 CES - 747
+0||CES - 747 下降 到 3900 联系 上海 进近 125 . 4 再见||联系 上海 进近 125 . 4 再见 下降 到 3900 CES - 747
+0||CES - 747 下 900 回归 标准 进场||下 900 回归 标准 进场 CES - 747
+0||CES - 747 右转 D 4 脱离 联系 地面 121 . 65 再见||右转 D 4 脱离 联系 地面 121 . 65 再见 CES - 747
+0||奥凯 2778 下降 到 3900 联系 上海 进近 125 . 4 再见||联系 上海 进近 125 . 4 下降 到 3900 奥凯 2778
+0||西藏 9832 离地 后 右转 航向 060||离地 后 右转 航向 060 西藏 9832
+0||海南 7708 保持 6300 预计 过 大王庄 后 下降||保持 6300 海南 7708
+0||东方 5216 上 10400 米 自主 领航||上 10400 米 自主 领航 东方 5216
+0||东方 123 北京 五边 继续 下 1800 保持 修 压 1008||北京 五边 继续 下 1800 保持 修 压 1008 东方 123
+0||东方 123 调速 200||调速 200 东方 123
+0||CHH 7805 跑道 36 右 可以 起飞||跑道 36 右 可以 起飞 CHH 7805
+0||CSN 3102 可以 起飞 静风||可以 静风 起飞 CSN 3102
+0||东方 进近 G - ARPC 通播 I 保持 在 5400 米||G - ARPC 通播 I 保持 在 5400 米 东方 进近
+0||CSN 3102 联系 东方 塔台 118 . 8||联系 东方 塔台 118 . 8 CSN 3102
+0||CES 5132 能见度 7000 米||能见度 7000 米 CES 5132
+0||国泰 231 能见度 5000 米||能见度 5000 米 国泰 231
+0||北京 塔台 CCA 083 申请 离场 指令||申请 离场 指令 北京 塔台 CCA 083
+0||CHH 7265 保持 5400 预计 大王庄 后 下降||保持 5400 CHH 7265
+0||海南 7280 地面 风 050 03 米 每秒 跑道 27 左 可以 起飞||跑道 27 左 可以 起飞 海南 7280
+0||国航 4118 向 右 偏置 3 海里||向 右 偏置 3 海里 国航 4118
+0||海南 7708 地面 风 050 03 米 每秒 跑道 17 右 可以 起飞||跑道 17 右 可以 起飞 海南 7708
+0||西藏 9811 调速 180 保持 到 接 地点 10 海里||调速 180 保持 到 接 地点 10 海里 西藏 9811
+0||国航 8232 在 Charlie 穿越 B 341 航路 高度 8900 米||在 Charlie 穿越 B 341 航路 高度 8900 米 国航 8232
+0||QTR 895 下降 到 8400||下 到 8400 QTR 895
+0||海南 7782 保持 5600 预计 过 大王庄 后 下降||保持 5600 海南 7782
+0||春秋 8856 进 跑道 准备 立即 起飞||进 跑道 准备 立即 起飞 春秋 8856
+0||深圳 9897 地面 风 050 4 米 每秒 跑道 27 左 可以 起飞||跑道 27 左 可以 起飞 深圳 9897
+0||G - CD 直接 进近 12 号 跑道 地面 风 100 度 8 米 每秒 场 压 1035||直接 进近 12 号 跑道 场 压 1035 G - CD
+0||G - CD 跟 在 四边 上 的 B 737 后面 第二 个 落地||跟 在 四边 上 的 B 737 后面 第二 个 落地 G - CD
+0||CSN 3102 滑 到 18 号 跑道||滑 到 18 号 跑道 CSN 3102
+0||上航 9127 下降 到 7400||下 到 7400 上航 9127
+0||CA 982 在 泊头 等待 高度 8000 米||在 泊头 等待 高度 8000 米 CA 982
+0||CA 981 航向 110 高度 10000 米||航向 110 高度 10000 米 CA 981
+0||春秋 8910 下降 到 5400||下 到 5400 春秋 8910
+0||春秋 8910 联系 广州 132 . 45 再见||132 . 45 春秋 8910
+0||春秋 8910 8900 现在 不行 有 汇聚 你 先 保持 高度||8900 现在 不行 有 汇聚 你 先 保持 高度 春秋 8910
+0||国航 110 广州 雷达 看到 了 左侧 间距 5 海里||左侧 间距 5 海里 广州 雷达 看到 了 国航 110
+0||白鹭 8412 地面 进 风 08 右 可以 起飞||08 右 可以 起飞 白鹭 8412
+0||南方 338 地面 进 风 09 左 可以 落地||09 左 可以 落地 南方 338
+0||7725 地面 进 风 07 右 可以 落地||07 右 可以 落地 7725
+0||白鹭 8412 联系 上海 132 . 45||132 . 45 白鹭 8412
+0||春秋 8910 你好 24 左 跑道 外 等待||24 左 跑道 外 等待 春秋 8910
+0||南方 319 左转 脱离||左转 脱离 南方 319
+0||东方 5402 起飞 后 保持 一边 地面 风 130 米 秒 2 跑道 13 可以 起飞||起飞 后 保持 一边 跑道 13 可以 起飞 东方 5402
+0||南航 3101 ɑ 8 进 跑道 02 左||ɑ 8 进 跑道 02 左 南航 3101
+0||国航 4811 恢复 自主 领航 上升 到 巡航 高度 5400 再见||恢复 自主 领航 上升 到 巡航 高度 5400 国航 4811
+0||深圳 9672 ɑ 3 进 跑道 08 左||ɑ 3 进 跑道 08 左 深圳 9672
+0||吉祥 1201 ɑ 5 进 跑道 36 右||ɑ 5 进 跑道 36 右 吉祥 1201
+0||吉祥 1183 ɑ 7 进 跑道 16 左||ɑ 7 进 跑道 16 左 吉祥 1183
+0||奥凯 2883 ɑ 6 进 跑道 23 右||ɑ 6 进 跑道 23 右 奥凯 2883
+0||西藏 9811 地面 温度 10 度 可以 推出 跑道 16 右 修正 海压 1000||可以 推出 修 压 1000 西藏 9811
+0||南方 319 地面 进 风 跑道 02 右 可以 落地||跑道 02 右 可以 落地 南方 319
+0||祥鹏 9820 直线 进近 跑道 24 地面 风 160 度 6 米 每秒 修正 海压 1001||直线 进近 跑道 24 修 压 1001 祥鹏 9820
+0||西藏 9811 直线 进近 跑道 06 地面 风 190 度 7 米 每秒 修正 海压 1001||直线 进近 跑道 06 修 压 1001 西藏 9811
+0||上航 9127 将 你 的 呼号 改为 B 2056 有 相似 呼号||将 呼号 改为 B 2056 上航 9127
+0||奥凯 2778 直线 进近 跑道 26 地面 风 190 度 7 米 每秒 修正 海压 1001||直线 进近 跑道 26 修 压 1001 奥凯 2778
+0||南航 3101 恢复 自主 领航 上 到 巡航 高度 5100 再见||恢复 自主 领航 上升 到 巡航 高度 5100 南航 3101
+0||深圳 9672 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 修 压 1022 深圳 9672
+0||深圳 9672 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 修正 海压 1022 深圳 9672
+0||海南 7280 离场 跑道 06 地面 风 290 度 4 节 修 压 1022||离场 跑道 06 修 压 1022 海南 7280
+0||西藏 9811 地面 风 050 03 米 每秒 跑道 17 左 可以 起飞||跑道 17 左 可以 起飞 西藏 9811
+0||西藏 9811 地面 风 050 03 米 每秒 跑道 24 左 可以 起飞||跑道 24 左 可以 起飞 西藏 9811
+0||春秋 8910 地面 风 050 03 米 每秒 跑道 09 左 可以 起飞||跑道 09 左 可以 起飞 春秋 8910
+0||奥凯 2778 地面 风 050 03 米 每秒 跑道 09 左 可以 起飞||跑道 09 左 可以 起飞 奥凯 2778
+0||春秋 8947 地面 风 050 03 米 每秒 跑道 02 左 可以 起飞||跑道 02 左 可以 起飞 春秋 8947
+0||吉祥 1147 地面 风 050 03 米 每秒 跑道 09 左 可以 起飞||跑道 09 左 可以 起飞 吉祥 1147
+0||吉祥 1185 地面 风 050 03 米 每秒 跑道 09 左 可以 起飞||跑道 09 左 可以 起飞 吉祥 1185
+0||奥凯 2778 地面 风 050 03 米 每秒 跑道 09 左 可以 起飞||跑道 09 左 可以 起飞 奥凯 2778
+0||南航 3101 地面 风 050 03 米 每秒 跑道 17 右 可以 起飞||跑道 17 右 可以 起飞 南航 3101
+0||QTR 895 在 短 五边 上 的 空客 落地 后 进 跑道||在 短 五边 上 的 空客 落地 后 进 跑道 QTR 895
+0||西藏 9832 地面 风 050 03 米 每秒 跑道 21 右 可以 起飞||跑道 21 右 可以 起飞 西藏 9832
+0||深圳 9897 地面 温度 10 度 可以 推出 跑道 26 左 修 压 1000||可以 推出 修正 海压 1000 深圳 9897
+0||吉祥 1043 巡航 高度 8600 起飞 跑道 25 起始 上升 修正 海压 3000 保持 修正 海压 1006||巡航 高度 8600 起飞 跑道 25 起始 上升 修正 海压 3000 保持 修正 海压 1006 吉祥 1043
+0||春秋 8856 巡航 高度 9500 起飞 跑道 21 起始 上升 修 压 3000 保持 修 压 1016||巡航 高度 9500 起飞 跑道 21 起始 上升 修正 海压 3000 保持 修正 海压 1016 春秋 8856
+0||深圳 1896 巡航 高度 9800 起飞 跑道 21 起始 上 修 压 3000 保持 修 压 1010||巡航 高度 9800 起飞 跑道 21 起始 上 修 压 3000 保持 修 压 1010 深圳 1896
+0||深圳 1368 巡航 高度 9900 起飞 跑道 21 起始 上 修 压 3700 保持 修 压 1015||巡航 高度 9900 起飞 跑道 21 起始 上 修正 海压 3700 保持 修正 海压 1015 深圳 1368
+0||深圳 1384 巡航 高度 7700 起飞 跑道 18 起始 上 修正 海压 3900 保持 修正 海压 1016||巡航 高度 7700 起飞 跑道 18 起始 上 修正 海压 3900 保持 修正 海压 1016 深圳 1384
+0||QTR 895 联系 东方 区域 127 . 5||127 . 5 QTR 895
+0||国航 982 P6 等待点 等待 跑道 27 L 起飞 可 用 长度 3600 米||P6 等待点 等待 跑道 27 L 起飞 可 用 长度 3600 米 国航 982
+0||吉祥 1147 恢复 自主 领航 上 到 巡航 高度 5100 再见||恢复 自主 领航 上升 到 巡航 高度 5100 吉祥 1147
+0||春秋 8910 P6 等待点 等待 跑道 17 L 起飞 可 用 长度 800 米||P6 等待点 等待 跑道 17 L 起飞 可 用 长度 800 米 春秋 8910
+0||吉祥 1135 直线 进近 跑道 21 地面 风 190 度 7 米 每秒 修正 海压 1010||直线 进近 跑道 21 修 压 1010 吉祥 1135
+0||吉祥 1150 三亚 塔台 继续 进近 跑道 26 修 压 1008||三亚 塔台 继续 进近 跑道 26 修 压 1008 吉祥 1150
+0||神鹿 123 联系 深圳 区域 127 . 5||127 . 5 神鹿 123
+0||春秋 8814 加速 脱离 跑道 脱离 后 联系 东方 地面 126 . 75 再见||加速 脱离 东方 地面 126 . 75 春秋 8814
+0||东方 2369 加速 脱离 跑道 脱离 后 联系 东方 地面 124 . 15 再见||加速 脱离 东方 地面 124 . 15 东方 2369
+0||深圳 9672 恢复 自主 领航 上 到 巡航 高度 7500 再见||恢复 自主 领航 上 到 巡航 高度 7500 深圳 9672
+0||西藏 9811 启发 26 左||启发 26 左 西藏 9811
+0||国航 2763 前方 道口 脱离 报||塔台 国航 2763 E6 脱离
+0||吉祥 1147 立即 停止 起飞 吉祥 1147 立即 停止 起飞||中断 起飞 吉祥 1147
+0||西藏 9811 北京 地面 减速 滑行||北京 地面 减速 滑行 西藏 9811
+0||DAL 185 上升 到 标准 气压 6600 米 保持||上 到 标 压 6600 保持 DAL 185
+0||奥凯 2778 巡航 高度层 7000 米 使用 跑道 28 应答 机 6312 离地 后 联系 进近 123 . 3||巡航 高度层 7000 米 使用 跑道 28 应答 机 6312 离地 后 联系 进近 123 . 3 奥凯 2778
+0||国航 4118 巡航 高度层 7000 米 使用 跑道 28 应答 机 6312 离地 后 联系 进近 123 . 3||巡航 高度层 7000 米 使用 跑道 28 应答 机 6312 离地 后 联系 进近 123 . 3 国航 4118
+0||南航 6966 巡航 高度层 1200 米 使用 跑道 09 应答 机 5001 离地 后 联系 进近 123 . 85||巡航 高度层 1200 米 使用 跑道 09 应答 机 5001 离地 后 联系 进近 123 . 85 南航 6966
+0||上航 4929 巡航 高度层 8000 米 使用 跑道 27 应答 机 6312 离地 后 联系 进近 123 . 3||巡航 高度层 8000 米 使用 跑道 27 应答 机 6312 离地 后 联系 进近 123 . 3 上航 4929
+0||西藏 9811 巡航 高度层 9800 米 使用 跑道 17 应答 机 6132 离地 后 联系 进近 123 . 13||巡航 高度层 9800 米 使用 跑道 17 应答 机 6132 离地 后 联系 进近 123 . 13 西藏 9811
+0||深圳 9897 巡航 高度层 5100 米 使用 跑道 06 应答 机 6312 离地 后 联系 进近 123 . 13||巡航 高度层 5100 米 使用 跑道 06 应答 机 6312 离地 后 联系 进近 123 . 13 深圳 9897
+0||CHH 7265 起始 高度 修正 海压 908 米 修正 海压 998 ECH 12D 离场||起始 高度 修正 海压 908 米 修正 海压 998 ECH 12D 离场 CHH 7265
+0||国航 969 下降 到 8100||下降 到 8100 国航 969
+0||国航 1022 左转 D 目视 引导 车 了 吗||目视 引导 车 了 国航 1022
+0||吉祥 1201 报告 距 花垣 DME 的 距离||距 花垣 DME40 公里 吉祥 1201
+0||吉祥 1112 报告 距 魏县 DME 的 距离||距 魏县 DME30 公里 吉祥 1112
+0||上海 区域 顺丰 4045 请求 在 DAL VOR 穿越 B3||顺丰 4045 可以 在 DAL VOR 穿越 B3 高度 4600 米
+0||国航 1429 距 花垣 25 公里 报告||距 花垣 25 公里 国航 1429
+0||AAL138 报告 高度||高度 保持 7500 米 AAL138
+0||CSC8825 报告 高度||高度 保持 3000 米 CSC8825
+0||ANA917 报告 高度||高度 保持 3000 米 ANA917
+0||AFR265 不明 飞行 活动 3 点钟 方位 10 公里 相对 飞行 快速 移动 看到 活动 报告||AFR265 看到 活动
+0||深圳 地面 早上好 春秋 8868 机型 波音 737 申请 一个 停机位||春秋 8868 停机位 13 号
+0||国航 1246 报告 距禄口 DME 的 距离||距禄口 DME40 公里 国航 1246
+0||东方 塔台 山航 16827 号位 请求 滑行||山航 168 东方 塔台 滑到 27 号位 等待 点
+0||北京 塔台 四川 5301 请求 穿越 36 号 跑道||四川 5301 穿越 36 号 跑道 脱离 报告
+0||东方 塔台 顺丰 5301 请求 穿越 22 号 跑道||顺丰 5301 穿越 22 号 跑道 脱离 报告
+0||东方 塔台 货航 530 请求 穿越 26 号 跑道||货航 530 穿越 26 号 跑道 脱离 报告
+0||北京 塔台 春秋 18536 号位 请求 反向 滑行||春秋 185 北京 塔台 同意 反向 滑行
+0||北京 塔台 吉祥 128636 号位 请求 反向 滑行||吉祥 1286 北京 塔台 同意 反向 滑行
+0||春秋 8799 报告 距禄口 DME 的 距离||距禄口 DME20 公里 春秋 8799
+0||奥凯 2963 证实 表速||表速 300 奥凯 2963
+0||东方 塔台 春秋 8996 重型 请求 滑行||春秋 8996 滑到 16 号 跑道
+0||东方 塔台 春秋 8614 请求 滑行||春秋 8614 滑到 12 号 跑道
+0||西藏 6240 请求 推出||西藏 6240 稍 等 推出 前面 有 故障
+0||奥凯 293 请求 推出||奥凯 293 稍 等 推出 前面 有 故障
+0||春秋 8867 证实 下降 率||下降 率 1500 春秋 8867
+0||奥凯 2747 证实 下降 率||下降 率 1500 奥凯 2747
+0||上海 进近 春秋 8847 请求 航向 130||春秋 8847 上海 航向 130 同意 进近
+0||上海 进近 深圳 4824 请求 航向 110 由于 雷雨云||深圳 4824 航向 110 同意
+0||北京 区域 海南 525 请求 转换 频率 1172||海南 525 东方 区域 同意 转换 频率
+0||吉祥 6212 请 报告 空速||收到 指示 空速 210 节 吉祥 6212
+0||吉祥 1659 上海 报告 当前 位置||过 P4310 海里 吉祥 1659
+0||上海 区域 吉祥 4683 请求 在 DAL VOR 穿越 A3||吉祥 4683 可以 在 DAL VOR 穿越 A3 高度 5500 米
+0||南方 5453 上海 报告 当前 位置||过 P4310 海里 南方 5453
+0||深圳 1389 上海 报告 当前 位置||过 P4310 海里 深圳 1389
+0||奥凯 12719 北京 报告 当前 位置||过 P4310 海里 奥凯 12719
+0||奥凯 2719 上海 进近 建立 18 左 跑道 航道 报||上海 进近 奥凯 2719 已 建立 18 左 跑道 了
+0||春秋 2747 证实 表速||表速 420 春秋 2747
+0||AHK8783 冲突 解除 正在 返回 许可 高度 保持 7500 米||东方 区域 收到
+0||国际 1439 上海 进近 建立 18 左 跑道 航道 报||上海 进近 国际 1439 已 建立 18 左 跑道 了
+0||国际 1409 超越 前机 B737 报告||国际 1409 已 超越 前机
+0||西藏 628718 左 跑道 可以 落地 了 脱离 报告||虹桥 塔台 西藏 628718 左 跑道 已 脱离
+0||东方 1202 超越 前机 B743 报告||东方 1202 已 超越 前机
+0||春秋 8867 证实 下降 率||下降 率 1200 春秋 8867
+0||吉祥 1111 证实 下降 率||下降 率 1500 吉祥 1111
+0||深圳 4824 证实 下降 率||下降 率 1500 深圳 4824
+0||CCA1212 不明 飞行 活动 10 点钟 方位 15 海里 从 左向右 穿越 快速 移动 看到 活动 报告||CCA1212 没有 看到 请求 引导
+0||北京 进近 春秋 8994 请求 航向 130 由于 雷雨云||春秋 8994 航向 130 同意
+0||AFR265 不明 飞行 活动 1 点钟 方位 15 公里 相对 飞行 快速 移动 看到 活动 报告||AFR265 收到 看到 活动
+0||CBJ5154 穿越 22 号 跑道 脱离 报告||CBJ5154 已 脱离 跑道
+0||吉祥 1259 证实 P6 进 跑道 起飞 没有 问题||P6 进 跑道 起飞 可以 吉祥 1259
+0||东方 1111 看到 五 边上 的 空客 报告||看到 空客 了 东方 1111
+0||南方 6580 看到 五 边上 的 空客 报告||看到 空客 了 南方 6580
+0||吉祥 1112 请 告知 能否 按照 平行 偏置 飞行||可以 按照 平行 偏置 飞行 吉祥 1112
+0||东方 区域 山东 9668 请求 转换 频率 1275||山东 9668 东方 区域 同意 转换 频率
+0||吉祥 1645 距禄口 30 公里 报告||距禄口 30 公里 吉祥 1645
+0||南方 6570 上海 进近 建立 16 左 跑道 航道 报||上海 进近 南方 6570 已 建立 16 左 跑道 了
+0||吉祥 1201 上海 进近 建立 18 左 跑道 航道 报||上海 进近 吉祥 1201 已 建立 18 左 跑道 了
+0||北京 地面 早上好 国航 151 机型 波音 777 申请 一个 停机位||国航 151 停机位 16 号
+0||东方 208415 左 跑道 可以 落地 了 脱离 报告||虹桥 塔台 东方 208415 左 跑道 已 脱离
+0||西藏 6259 请 报告 空速||收到 指示 空速 220 节 西藏 6259
+0||南方 635018 左 跑道 可以 落地 了 脱离 报告||虹桥 塔台 南方 635018 左 跑道 已 脱离
+0||国航 1429 停机位 A2 到位 报||地面 国航 1429 停机位 A2 到位 了
+0||东方 4456 停机位 A1 到位 报||地面 东方 4456 停机位 A1 到位 了
+0||CHH7873 不明 飞行 活动 3 点钟 方位 20 公里 相对 飞行 快速 移动 看到 活动 报告||正在 观察 CHH7873
+0||CCA1730 TCAS RA 告警||CCA1730 收到 返回 许可 高度 报告
+0||CHH7988 报告 高度||高度 保持 3000 米 CHH7988
+0||ACA088 联系 东方 区域 1275||1275ACA088
+0||SLA5188 联系 东方 区域 1312||1312SLA5188
+0||国航 1409 东方 区域 证实 是否 获准 RVSM 运行||东方 区域 国航 1409 不是 RVSM
+0||四川 4216 上海 区域 证实 是否 获准 RVSM 运行||上海 区域 四川 4216 不是 RVSM
+0||CSC215 不明 飞行 活动 3 点钟 方位 12 公里 相对 飞行 快速 移动 看到 活动 报告||CSC215 收到 看到 活动
+0||AIC349 到达 6500 米 报告||AIC349 到达 6500 米
+0||CCA342 unknow traffic 1 o'clock11 kilometers opposite direction fast moving report traffic in sight||CCA342 traffic in sight
+0||CSC215 unknow traffic 6 o'clock15 kilometers opposite direction fast moving report traffic in sight||CSC215 traffic in sight
+0||DLH457 unknow traffic 6 o'clock8 kilometers opposite direction fast moving report traffic in sight||DLH457 rogertraffic in sight
+0||AFR116 unknow traffic 2 o'clock 9 kilometers oppsite direction fast moving report traffic in sight||Looking out AFR116
+0||CSN6263 unknow traffic 1 o'clock 8 kilometers oppsite direction fast moving report traffic in sight||Looking out CSN6263
+0||DLH457 unknow traffic 3 o'clock15 miles crossing left to rightfast moving report traffic in sight||DLH457 negative contact request vectors
+0||ALL138 report level||Maintaining 7200 meters AAL138
+0||ALL138 report level||Maintaining 7500 meters AAL138
+0||ANA917 report level||Maintaining 3000 meters ANA917
+0||HXA2674 report speed||speed 250 knots HXA2674
+0||AFL108 report speed||speed 250 knots AFL108
+0||AIC110 report speed||speed 250 knots AIC110
+0||ALK111 report speed||speed 250 knots ALK111
+0||AAR3213 report leaving 7500 meters||Wilco AAR3213
+0||CPA6111 clear of conflict returning to clearance Now maintaining 11000 meters||Shanghai Control roger
+0||AHK8783 clear of conflict returning to clearance Now maintaining 7500 meters||Dongfang Cont rolroger
+0||CBJ5154 clear of conflict returning to clearance Now maintaining 7500 meters||Dongfang Cont rolroger
+0||CPA6111 TCAS RA||CPA6111 roger report returning to clearance
+0||CBJ5154 TCAS RA||CBJ5154 roger report returning to clearance
+0||AAR3213 TCAS RA||AAR3213 roger report returning to clearance
+0||AAL8901 contact Beijing Control 1275||1275 SLA5188
+0||SLA5188 contact Dongfang Control 1312||1312 SLA5188
+0||CXA8459 cross Runway 22 report vacated||CXA8459 runway vacated
+0||ALK111 报告 速度||速度 250 ALK111
+0||AIC349 report reaching 6500 meters||AIC349 reaching 6500 meters
+0||CES5321 report leaving 6500 meters||CES5321 leaving 6500 meters
+0||CCA1246report distance form NJL DME||40 kilometers form NJL DME CCA1246
+0||AFR2034report distance form DAL DME||30 kilometers form DAL DME AFR2034
+0||AMU143 report 45 kilomerters form WXI DME||45 kilomerters form WXI DME AMU143
+0||东方 塔台 奥凯 38124 号桥 请求 开车||奥凯 381 同意 开车
+0||QTR895 confirm you can line up runway 14L by P2 and make a inter section takeoff||affirmative QTR895
+0||AMU007 confirm you can line up runway 12R by P6 and make a inter section takeoff||affirmative AMU007
+0||OKA2850 confirm you can line up runway 16R by P6 and make a inter section takeoff||affirmative OKA2851
+0||HVN513 confirm you can line up runway 15R by P1 and make a inter section takeoff||affirmative HVN213
+0||AAL103 报告 速度||速度 250 AAL103
+0||FIN052please report your indicate airspeed||roger indicate airspeed 270 konts FIN052
+0||CCA2633 gate A1 report when rady||ground CCA2633 gate A1 flight plan submitted
+0||深圳 地面 早上好 东方 5337 机型 波音 737 申请 一个 停机位||东方 5337 停机位 12 号
+0||kunming delivery KOR152 on gate B1 request clearance to hongqiao||KOR152cleared to shanghai airport as filed
+0||kunming delivery KZR888 on gate C1 request clearance to hongqiao||KZR888cleared to shanghai airport as filed
+0||CHH7265shanghai control confirm RVSM approved||shanghai control CHH7265 affirm RVSM
+0||CSC215 不明 飞行 活动 10 点钟 方位 13 海里 从 左向右 穿越 快速 移动 看到 活动 报告||CSC215 没有 看到 请求 引导
+0||CES5301 hold short of runway 14R request cross runway||CES5301 cleared cross runway 14R
+0||LKE1912 hold short of runway 13R request cross runway||LKE1912 cleared cross runway 13R
+0||EVA712 turn left join B do you have the follow me car insight||follow me car insight EVA712
+0||东方 4456 停机位 A3 到位 报||地面 东方 4456 停机位 A3 到位 了
+0||beijing control HBH8380 request to cross C1 at DAL VOR||HBHB8380 cleared to cross C1 at DAL VOR at 5800 meters
+0||CES2084 shanghai verify your present position||15nm over P43 CES2084
+0||CCA4142 confirm speed||300 knots CCA4142
+0||DKH1659 confirm speed||300 knots DKH1659
+0||CQH2747 confirm speed||420 knots CQH2747
+0||CES5337 confirm speed||300 knots CES5337
+0||OKA2963 confirm speed||300 knots OKA2963
+0||CCA1409 overtake the B737 ahead||CCA1409 overtaken and passed the B737
+0||CQH8510 overtake the B737 ahead||CQH8510 overtaken and passed the B737
+0||CQH8613 confirm descending||1300 feet per minute CQH8613
+0||DKH1111 confirm descending||1500 feet per minute DKH1111
+0||CES5335 confirm descending||1400 feet per minute CES5335
+0||shanghai approach CSN6570 request fly heading 100 due to CB occured||CSN6570 heading 100 approved
+0||shanghai approach TBA6297 request fly heading 100 due to CB occured||TBA6297 heading 100 approved
+0||shanghai approach CQH8719 request fly heading 100 due to CB occured||CQH8719 heading 100 approved
+0||CCA6570 report ready for depature||CCA6570 ready
+0||东方 塔台 奥凯 191124 号位 请求 滑行||奥凯 1911 东方 塔台 滑到 24 号位 等待 点
+0||CSN6570 shanghai approach cleared to intercept localizer runway 16L report established||shanghai approach CSN6570 established localizer runway 16L
+0||TBA6295 shanghai approach cleared to intercept localizer runway 18L report established||shanghai approach TBA6295 established localizer runway 18L
+0||CSZ4824 runway 18L clear to land report vacated||hongqiao tower CSZ4824 vacated runway 18L
+0||北京 放行 顺丰 5677 停机位 B3 去 虹桥 申请 放行||顺丰 5677 可以 沿 计划 航路 飞行 至 上海 虹桥
+0||北京 放行 国航 409 停机位 B1 去 江北 申请 放行||国航 409 可以 沿 计划 航路 飞行 至 重庆 江北
+0||昆明 放行 国航 4130 停机位 B1 去 江北 申请 放行||国航 4130 可以 沿 计划 航路 飞行 至 重庆 江北
+1||Sunair939 initial climb to 1600 meters on QNH 1011 maintain 6500 meters on standard squawk 3475||initial climb to 800 meters on QNH 2011 maintain 3500 meters on standard squawk 3470 Sunair939
+1||CCA1331 correct contact Dongfang Tower on 113.7 correction I say again contact Dongfang Tower on 118.1||Roger contact Shanghai Tower on 127.5 G-PC
+1||CCA1331 line up||Lining up UAL889
+1||Viasa898 behind the landing aircraft line up and wait||hold and wait Viasa898
+1||Y-HJFL take off immediately or vacate runway||Taking off maintain heading runway Y-HJFL
+1||PQ-RST take off immediately or vacate runway||Taking off maintain heading runway PQ-RST
+1||CXA8102 contact Dongfang Control on 120.1 good day||160.1 for Control CSN302 good day
+1||Squawk A-LF 2711||D-TV squawk 3466
+1||Dongfang Control 5386 A-LF||A-LF squawk 5246
+1||CSN3201 Beijing Control climb at 10 m/s||Beijing Control climb at 19 m/s CKK206
+1||CSN3201 Beijing Control climb at 10 m/s||Shanghai Control climb at 19 m/s CKK206
+1||GCR6529 Beijing Control descend to reach 9500 meters at 05||Shanghai Control fly to reach 9500 meters at 09 CES2020
+1||GCR6529 Binhai Control descend to reach 9500 meters at 05||Shanghai Control descend to reach 950 meters at 09 CES2020
+1||GCR6529 Beijing Control descend to reach 9500 meters at 05||Guangzhou Control descend to reach 6500 meters at 09 CES2020
+1||CCA1331 hold position cancel take off I say again cancel take off due vehicle on the runway||take off immediately GCR6529
+1||Beijing control CES2020 leaving 7500 meters descending to 7200 meters||CES2105 Beijing control descend to 7500 meters
+1||Beijing Approach G-ABDC airborne time 15 300 meters climbing||G-RASC Dongfang Approach
+1||G-DC climb to and maintain 1200 meters||Roger climbing to 1600 meters G-ABCD
+1||KLM898 report speed||Speed 250 knots UAL889
+1||ZE692 Shanghai Control climb to 8100 meters||Beijing Control climb at 19 m/s ZE692
+1||CCA981 ALF01 departure initial climb to 900 meters on QNH 1014||ALF01 departure initial descend to 939 meters on QNH 1020 CSN2105
+1||CES502 maintain 10100 meters on standard squawk 4082||Maintaining 10100 meters on standard squawk 5246 CDG1152
+1||CDG1152 climb to 10100 meters on standard squawk 3466||Maintaining 8800 meters on standard squawk 1115 BAW039
+1||G-BCDO Shanghai Control climb to 8100 meters||Beijing Control climb at 12 m/s G-BCDO
+1||CPA903 Dongfang Delivery Stand by||Standing by CCA1331 Beijing Delivery
+1||KLM570 contact DTWR on 198.4 Correction 118.5||Contact DTWR on 198.4 CPA903
+1||AAL8901 contact DTWR on 165.4 Correction 198.5||165.4 AAL8901
+1||YZR7991 climb to FL240 turn right heading 080||Climbing to FL350 left heading 020 HDA890
+1||TW410 expect 10 minutes delay due to vehicle breakdown Standby and monitor Ground 118.9||Standby and monitor PQ-RST
+1||PQ-RST confirm leaving 7500 meters||leaving 6900 meters HDA890
+1||CCA1726 Shanghai Tower make full stop cleared to land||Cancel to land CCA1726 Dongfang Tower
+1||BAW1168 Shanghai Tower make full stop cleared to land||Cancel to land AAL128 Dongfang Tower
+1||HDA841 Shanghai Tower make full stop cleared to land||Cancel full stop AAL8901 Dongfang Tower
+1||N231CL turn left heading 080||Right heading 038 N231CL
+1||Roger DNO turn left heading 160 climb to 10400 meters||Right heading 160 climbing to 7500 meters DNO
+1||Mexicana465 London Control climb at 2100 ft/min or greater||Shanghai Control climb at 600 ft/min or greater HDA890
+1||BAW039 climb to FL 200 report passing level 140||Climbing to FL 140 will report passing level 180 ACA387
+1||Roger BAW039 continue to climb to FL 300||maintain to FL 300 ACA387
+1||BAW039 change now to Lima Control on 132.7 good day||Lima Control on 133.8 good day K-LMNO
+1||HDA890 Beijing Control climb at 2000 ft/min or greater||Shanghai Control climb at 1500 ft/min KLM898
+1||HDA890 Dongfang Control climb at 600 ft/min or greater||Shanghai Control climb at 200 ft/min Palm205
+1||MAYDAY D-BIXT fire now under Control cancel distress||Roger D-BIXT MAYDAY distress traffic ended
+1||ZE692 Dongfang Tower wind calm Runway 36L cleared to land||Runway 36R request to land ZE692
+1||ACA387 Dongfang Tower wind calm Runway 36L cleared to land||Wind calm ACA387
+1||CCA1320 Dongfang Tower wind 110 degrees 5 m/s Runway 030 cleared to land||Wind 110 degrees 5 m/s Cancel to land Runway 09 UV-WXY
+1||CES5412 cleared to cross V21 at KIG VOR 2400 meters||cleared to cross V22 at KIG VOR 1800 meters CCA1320
+1||BAW039 cleared to cross V21 at KIG VOR 4400 meters||Cross V21 at KIG VOR 4800 meters BAW039
+1||GCR6529 Beijing Control descend to reach 9500 meters at 05||Shanghai Control descend to 9500 meters at 080 QTR895
+1||CXA8101 turn left heading 210||Right continue present heading CCA1730
+1||CPA295 turn right heading 210||heading 080 CPA295
+1||CXA8101 turn right heading 210||heading 080 CXA8101
+1||CPA295 turn left heading 230||heading 080 CPA295
+1||CXA8101 turn left heading 240||heading 080 CXA8101
+1||OXSPR continue climb to 5600 meters on standard climb at 1800 ft/min or greater||Climb to 5400 meters at 2000 m/s OXSPR
+1||OPR continue climb to 4500 meters on standard climb at 2000 ft/min or greater||Climb to 5400 meters at 2000 m/s OPR
+1||CSN2105 ILS approach Runway 36L||YFJ approach Runway 36R B2341
+1||CXA8101 ILS approach Runway 36L||ILS approach Runway 36R B2341
+1||DNO ILS approach Runway 36L||ILS approach Runway 32R DNO
+1||CPA903 ILS approach Runway 09L||Dongfang approach Runway 08R CPA903
+1||CSN9070 ILS approach Runway 06L||Shanghai approach Runway 02R K-LMNO
+1||Beijing Final CXA8101 1800 meters maintaining||CXA8101 Shanghai Final maintain 3600 meters
+1||CXA8101 turn right heading 020||Left heading 020 UPS2921
+1||B2341 cleared for ILS approach Runway 36L report established on localizer||ILS approach Runway 09 will report established on localizer UPS2921
+1||HDA786 cleared for ILS approach Runway 08 report established on localizer||Beijing approach Runway 09 will report established on localizer UPS2921
+1||Dongfang Control K-LMNO ECH at 35 maintaining 10400 meters||K-LMNO Beijing Control descend to 10400 meters ECH at 29
+1||Dongfang Control AFL138 ECH at 33 maintaining 10400 meters||AFL138 Beijing Control descend to 10400 meters ECH at 35
+1||Dongfang Control G-ABCD ECH at 24 maintaining 10400 meters||G-ABCD Beijing Control descend to 10400 meters ECH at 34
+1||Dongfang Control B3644 ECH at 22 maintaining 10400 meters||B3644 Beijing Control descend to 10400 meters ECH at 35
+1||G-ABCD avoiding action Turn right 30 degrees immediately||Turning left 18 degrees G-ABCD
+1||B2711 avoiding action Turn right 12 degrees immediately||Reducing to minimum approach speed B2711
+1||HDA890 avoiding action Turn right 18 degrees immediately||Turning left 17 degrees HDA890
+1||Dongfang Departure HDA903 passing 230 meters climbing to 900 meters||HDA903 Shanghai Departure climbing to 230 meters
+1||Dongfang Departure N550SD passing 1300 meters climbing to 3000 meters||N550SD Shanghai Departure climbing to 1300 meters
+1||Sunair939 avoiding action Turn right 30 degrees immediately||Reducing to minimum approach speed Sunair939
+1||AFL138 Dongfang Departure follow YV 24 Departure continue climb to 2900 meters on QNH 1011||Maintain 2100 meters on standard YV 45 Departure AFL138
+1||Pudong Ground CHH7702 radio check on 119.5||Dongfang Ground check radio on 111.5 CHH7702
+1||Pudong Ground AFR116 radio check on 119.5||Dongfang Ground check radio on 125.5 AFR116
+1||CCA1709 Beijing Approach maintain present speed||reduce speed CCA1709 Dongfang Approach
+1||CBJ5154 maintain 8100 meters until further advised||Climbing to 8100 meters KLM4453
+1||CDG1835 maintain 8400 meters||Climbing to 8200 meters KLM4453
+1||CXA8586 stop descent at 5450 meters||continue descent at 5450 meters AAR3213
+1||CXA8470 stop climb at 5100 meters||continue descent at 5100 meters ACA050
+1||SAS996 climb to and maintain 6300 meters||Climbing to 6800 meters CCA1331
+1||CSC8825 climb to 9000 meters expedite until passing 6800 meters||Climbing to 6800 meters CSC8825
+1||CSC215 turn left heading 050||Turning Right heading 050 CSC215
+1||CCA1356 turn left heading 030||Turning left heading 050 CCA1356
+1||CDG1152 turn right heading 18L||Turning right heading 36L CDG1152
+1||CHH7988 turn right heading 17R||Turning right heading 19L CHH7988
+1||ANA1260 turn left heading 09||Turning left heading 33 ANA1260
+1||HDA396 follow CHEDY ONE RNAV Departure cross AA018 waypoint at or above 3600 meters climb to and maintain 5400 meters||Climbing to 3600 meters CHEDY ONE RNAV Departure cross AA018 HDA396
+1||CPA589 turn right heading 150 vectoring for spacing maintain 2700 meters except to resume LADIX ONE RNAV Departure||Left heading 090 maintaining 2700 meters expecting LADIX ONE Departure CPA589
+1||DLH457 cleared direct AA011 resume LADIX ONE RNAV Departure comply with restrictions||Direct AA01 resume LADIX ONE Departure comply with restrictions CSN6580
+1||CSC8861 after HO fly heading 010||After CHG fly heading 090 HBH8380
+1||CHH345 make a three sixty turn left for sequencing||Three sixty turn right CSC8861
+1||G-BCDO descend to 400 meters||Descending 2400 meters G-BCDO
+1||ACA050 Runway 09 line up and wait||Lining up and wait Runway 030 DAL185
+1||ACA050 Runway 050 line up and wait||122.6 contact BAW402
+1||JAL426 Runway 19L cleared for take off||Runway 12L cancel take off JAL426
+1||N231CL descend to 400 meters||Descending 2400 meters N231CL
+1||CSN3356 Runway 32R cleared for take off||Runway 18L cancel take off CSN3356
+1||G-BO Runway 020 cleared for take off||Runway 090 cancel take off G-BO
+1||AFP292 Runway 09 cleared for take off||Runway 038 cancel take off DAL185
+1||AFL138 Runway 11 cleared for take off||Runway 05 cancel take off imediately AFL138
+1||CCA1331 Shanghai Tower Runway 18 cleared for take off||Cancel take off Runway 18 CDG4670 Beijing Tower
+1||EVA712 Dongfang Tower Runway 09 cleared for land||cancel for take off Runway 080 UNE309 Dongfang Tower
+1||YFL hold position cancel take off||take off YFL
+1||G-ABCD hold position cancel take off||take off G-ABCD
+1||BAW039 hold position cancel take off||take off BAW259
+1||G-CD Dongfang Tower Runway 090 cleared for take off||Cancel take off Runway 18 G-BO Dongfang Tower
+1||G-BO Dongfang Tower Runway 18 cleared for take off||Cancel take off Runway 090 5Y-CCE Dongfang Tower
+1||G-BO runway-in-use 17 PIKAS11D initial climb to 900 meters on QNH 1011||runway-in-use 20 PIKAS11D initial climb to 2000 meters on standard CCA102
+1||UV-WXY descend to 400 meters||Descending 2400 meters UV-WXY
+1||5Y-CCE request level change for 9800 meters en route squawk 5310||request level hold 8800 meters en route squawk 7500
+1||CCA1331 taxi to gate D4 via taxiway B2 and D3||Via taxiway B2 taxi to gate D4 CCA1331
+1||AFL138 taxi to gate D4 via taxiway C4 and D3||Via taxiway B2 taxi to gate D4 AFL138
+1||Shanghai Approach CCA1331 cleared low approach runway 36L for training||CES5323 Shanghai Approach cleared low approach runway 09
+1||CES5186 climb to 8900 meters expedite until passing 8400 meters||Descending to 3000 meters HDA4670
+1||BAW038 climb to 8900 meters expedite until passing 8400 meters||Descending to 3000 meters Viasa898
+1||G-CD make one orbit right||Orbiting left G-CD
+1||G-CD make one orbit right||Orbiting left G-BO
+1||G-BO turn left heading 210 to intercept ILS runway 17||Right heading 210 to intercept ILS runway 18 wilco G-BO
+1||JAL402 leave India heading 320 for Juliette Contact Arrival on 125.8||Heading 210 leave India for Sierra Contact 121.8 JAL402
+1||BAW301 turn right heading 09 radar vectors to a visual final runway 34 ILS unserviceable||Turn left heading 010 radar vectors to a visual final runway 34 ILS unserviceable JAL402
+1||HDA890 descend to 3000 feet on QNH 1011||Descending to 2700 feet on QNH 1014 HDA4670
+1||C-FG descend to circuit altitude 300 meters on QNH 998 Join left hand downwind runway 21||Climbing to 300 meters on standard Join runway 21 downwind JAL426
+1||CES2357 Continue approach on the localizer||Continue approach on the localizer BAW301
+1||JAL426 descend to 6000 feet on QNH 1006||Descending 6000 meters on standard JAL426
+1||CES502 descend to 3000 feet on QNH 1011||Descending to 2700 feet on QNH 1014 CES502
+1||Leaving flight level 2400 for flight Level 80 C-GNDK||C-GNDK to flight level 400
+1||Leaving flight level 1200 for flight Level 80 AFR129||AFR600 to flight level 1100
+1||CDG1152 descend to 4000 feet on QNH 1011||Descending to 3000 feet on QNH 1010 CDG1152
+1||Delta Approach AFL138 leaving 3600 feet for 8000 feet||CSN3356 Delta Approach climb to 6000 feet from 3000 feet
+1||QTR895 descend to 3000 feet on QNH 1011||Descending to 2700 feet on QNH 1014 QTR895
+1||GCR6529 descend in the hold 9000 feet to 6000 feet||descend to 8000 feet GCR6529
+1||C-GNDK track 038 left hand pattern outbound time one and a half minutes||track 038 right hand pattern inbound time one minutes C-GNDK
+1||CHH7702 stand by||Standing by B3213
+1||EVA707 follow the A340 cleared for visual approach Runway 19 caution wake turbulence Contact Tower 118.1 good day||Cleared for approach Runway 09 Contact Tower 118.9 good day EVA707
+1||CES5121 turn left heading 350||Right heading 09 UAL7429
+1||CES5121 no ATC speed restrictions position 15 kilometers from touchdown radar service terminated contact tower 118.8 good day||ATC speed restrictions 15 kilometers from touchdown contact tower 118.8 good day UAL7429
+1||Tianjin Approach CES5121||B3213 Tianjin Approach
+1||CCA1061 cancel offset proceed direct to A593||Cancel offset proceed to GLN AFR116
+1||GCR6529 Beijing Control descend to reach 9500 meters at 05||Binhai Control climb to 9500 meters at 05 CKK206
+1||Dongfang Approach CCA1356||CCA1356 Shanghai Approach
+1||AAL186 descend immediately to 6900 meters||maintain 8000 meters AAL186
+1||ACA030 taxi to holding point A1 Runway 18R taxiway centerline lighting unserviceable||Roger taxi to holding point A7 Runway 38 ACA030
+1||ACA030 hold position cancel take off||take off ACA030
+1||PIA853 monitor VYK 123.25||Monitor ATIS 123.5 PIA853
+1||CES5186 climb to 8000 meters expedite until passing 8400 meters||Climb to 8900 meters expedite until passing 8000 meters OKA2851
+1||CSN3107 change your call sign to B2456 similar call sign||Change call sign to OKA2851 CSN3107
+1||CSE5186 go around immediately aircraft on runway||Go around immediately G-ABCD
+1||CSN6624 make full stop cleared to land||Cleared to land full stop CSC215
+1||KLM898 cleared for take off wind calm||Wind 270 degrees 7 m/s cleared for take off KLM898
+1||AFP292 taxi to runway 08 break centerline taxiway lighting unserviceable||Roger taxi to runway 11 UPS2921
+1||TWA591 cleared for take off wind calm||wind calm TWA591
+1||CCA981 contact approach on 118.8 good day||120.1 good day CCA981
+1||Echo Departure QR-OPS leave 3000 meters for 5400 meters||maintain 3000 meters Echo Departure QR-OPS
+1||ACA083 radar contact turn left heading 030 climb to 2700 meters on QNH at 2000 feet per minute||Right heading 090 climbing to 2000 meters on standard at 2000 feet per minute ACA083
+1||Approach JAL404 initial climb to 5000 feet||Initial climb to 5000 meters CSN3607
+1||JAL404 continue climb to FL 180 after passing FL 150 set heading to Alpha||set heading to Alpha continue climb to FL 180 JAL404
+1||Swissair801 taxi to holding point runway 14 Green centerline lights on taxiway unserviceable||roger Green centerline lights on taxiway unserviceable Taxi to runway 14 Swissair801
+1||Squawk 5346 G-LF||G-LF squawk 5246
+1||Pudong Tower JAL781 gate 27 request push back||JAL781 push back approved gate 18 DongFang Tower
+1||5 minutes delay CCA191 taxiing behind||B747 taxiing behind one minutes delay
+1||Air Canada710 Start up at own discretion and push back facing east||Start up head 09 and push back from east Air Canada710
+1||TW410 expect 10 minutes delay due to vehicle breakdown Standby and monitor Ground 118.9||Standby and contact Ground 112.8 delay TW410
+1||CCA1331 hold position cancel take off I say again cancel take off due vehicle on the runway||take off immediately cancel hold position D-TV
+1||Beijing control Viasa898 leaving 7800 meters descending to 7200 meters||Viasa898 Beijing control hold 7800 meters
+1||SAS996 Shorten your pattern B747 is behind you||Shorten your pattern HL-XPQ is behind you CES123
+1||ZE692 cleared to make full stop landing||Negative cleared to make full stop landing ZE692
+1||ZE692 keep sufficient separation from the proceeding big jet||follow the proceeding big jet TW410
+1||CSN3369 expect approach clearance at 1010||Expect approach clearance at 1215 TW410
+1||ZE692 QX beacon has just gone out please proceeding to FO||proceeding to QX ZE692
+1||SWR197 maintain present level disregard climb to 8000 meters||maintain present level CPA903
+1||MAS361 descend to 2000 meters disregard maintain present level||Descend to 2000 meters CPA903
+1||PAL359 hold position cancel take off I say again cancel take off due vehicle on the runway||take off cancel hold position PAL359
+1||AAL186 report the Airbus on final in sight||the Airbus in sight TBA9907
+1||CCA1331 maintain 9500 meters on standard squawk B2675||maintain 9500 meters on standard squawk B2477 CCA1331
+1||Dongfang Tower DAL185 stand 36 approved backtrack at present position||hold at present position stand 22 DAL185
+1||CES2105 Cleared to Pudong via flight planned route ALF02 Departure||Cleared to Shanghai via flight planned route ALF03 Departure CCA1331
+1||CDG4670 Cleared to Beijing via flight planned route ALF02 Departure||Cleared to Shanghai via flight planned route ALF02 Departure CDG4670
+2||国航 6966 东方 离场 雷达 看 到 了 包头 25 号 离场 继续 上升 到 修正 海压 2700 米 修正 海压 998||25 号 离场 上升 2700 998 6966
+2||国航 969 东方 离场 雷达 看 到 了 包头 01 号 离场 继续 上升 到 修正 海压 2700 米 修正 海压 998||01 号 离场 上升 2700 998 969
+2||CHH 7265 东方 离场 雷达 看 到 了 包头 01 号 离场 继续 上升 到 修正 海压 2700 米 修正 海压 998||01 号 离场 上升 2700 998 7265
+2||CHH 7885 因为 延迟 右转 盘旋||右转 盘旋
+2||奥凯 2778 保持 5600 预计 过 大王庄 后 下降||保持 5600 2778
+2||国航 4118 停止 转弯 航向 090||航向 090 4118
+2||春秋 8910 停止 转弯 航向 290||290 8910
+2||奥凯 2778 为 了 识别 左转 航向 290||左转 航向 290 2778
+2||春秋 8910 为 了 识别 左转 航向 290||左转 航向 290 8910
+2||南航 9598 在 东方 塔台 128 . 1 上 等待||128 1 9598
+2||海南 7280 原地 等待 取消 起飞 指令||等待 7280
+2||春秋 8910 保持 6400 预计 过 大王庄 后 下降||保持 6400 8910
+2||南航 351 原地 等待 取消 起飞 指令||等待 南航 351
+2||深圳 9897 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||跑道 32 离场 1022 9897
+2||国航 4118 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 1022 4118
+2||吉祥 1147 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 1022 1147
+2||国航 6966 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 1022 6966
+2||深圳 9897 离场 跑道 32 地面 风 290 度 4 节 修正 海压 1022||离场 跑道 32 1022 9897
+2||春秋 8910 保持 5000 预计 过 大王庄 后 下降||保持 5000 春秋
+2||1深圳 9672 浦东 地面 在 118 . 1 上 收听 通播||1181 9672
+2||吉祥 1147 浦东 地面 在 127 . 85 上 收听 通播||12785 1147
+2||南航 3101 浦东 地面 在 127 . 85 上 收听 通播||127 85 3101
+2||国航 4118 浦东 地面 在 127 . 85 上 收听 通播||127 85 4118
+2||南航 3101 联系 广州 135 . 35 再见||135 . 35 3101
+2||上航 4929 在 东方 塔台 118 . 1 上 等待||118 . 1 上 等待
+2||国航 969 地面 进 风 08 右 可以 落地||08 可以 落地 969
+2||QTR 895 联系 东方 区域 127 . 5||127 . 5 895
+2||国航 4811 将 你 的 呼号 改为 B 2357||呼号 改为 2357 4811
+2||白鹭 8412 将 你 的 呼号 改为 B 6312||呼号 改为 B 6312 8412
+2||深圳 9897 将 你 的 呼号 改为 B 6213||呼号 改为 6213 9897
+2||吉祥 1147 将 你 的 呼号 改为 B 5743||呼号 改为 5743 1147
+2||春秋 8910 将 你 的 呼号 改为 B 2456||呼号 改为 2456 8910
+2||南航 6966 通过 1100 米 后 右转 航向 060||1100 米 后 右转 航向 060
+2||吉祥 1147 通过 1300 米 后 右转 航向 060||1300 米 后 右转 航向 060
+2||国航 0003 地面 风 050 03 米 每秒 跑道 17 左 可以 起飞||17 左 可以 起飞 00030
+2||南航 3101 地面 温度 10 度 可以 推出 跑道 27 左 修 压 1013||修 压 1013 3101
+2||上航 4929 地面 进 风 07 右 可以 落地||07 可以 落地 4929
+2||深圳 9672 近 地 告警 上升 到 修正 海压 900 米 修正 海压 1013||上升 修正 海压 900 1013 9672
+2||海南 7782 保持 5600 预计 过 大王庄 后 下降||保持 5600 7782
+2||QTR 895 起始 高度 修正 海压 908 米 修正 海压 998 ECH 12D 离场||起始 高度 修正 海压 908 998 ECH 12D 离场 895
+2||国航 0003 停机位 廊桥 01 停机 到位 报||停机位 廊桥 01 停机 到位 报
+2||国航 0003 可以 推出 开车 机头 朝 西||可以 推出 开车 机头 朝 西
+2||奥凯 2778 地面 进 风 02 左 可以 落地||可以 落地 2778
+2||国航 0003 海口 塔台 五边 有 落地 飞机 跑道 09 外 继续 等待||跑道 09 外 继续 等待
+2||国航 0003 尾流 间隔 起飞 稍等||尾流 间隔 起飞 稍等
+2||南航 3113 跑道 21 左 可以 起飞||可以 起飞 3113
+2||南航 392 跑道 08 左 可以 落地||跑道 08 落地 392
+2||南航 6730 进 跑道 09 右||进 跑道 09 右
+2||南方 387 进 跑道 02 右||进 跑道 02 右 387
+2||国航 4106 保持 5600 预计 过 大王庄 后 下降||保持 5600
+2||国航 6966 联系 广州 132 . 45 再见||132 . 45 6966
+2||南方 3489 08 左 可以 起飞||可以 起飞 3489
+2||南方 3682 09 左 可以 落地||可以 落地 3682
+2||南方 3822 06 右 可以 落地||可以 06 右 落地
+2||上航 9351 02 左 可以 落地||可以 落地 9351
+2||白鹭 8412 联系 上海 132 . 45||132 . 45 8412
+2||CA 982 预期 ILS 进近 36 号 左 跑道 场 压 1014||ILS 进近 36 左 跑道 CA 982
+2||海南 7280 联系 上海 132 . 45 再见||132 . 45 再见 7280
+2||奥凯 2778 保持 6500 预计 过 大王庄 后 下降||6500 2778
+2||春秋 8910 保持 6500 预计 过 大王庄 后 下降||6500 8910
+2||CA 982 位置 在 本场 南侧 12 公里 左转 航向 320 下降 到 场 压 高度 900 米 场 压 1014||12 公里 左转 航向 320 下降 高度 900 1014 982
+2||CA 982 保持 高度 9000 米 预期 过 邳县 以后 下降||9000 预期 过 邳县 以后 下降
+2||CCA 1331 下降 到 120 米 终止 滑到 X 关闭||下降 120 终止 滑到 X 1331
+2||南航 351 联系 上海 132 . 45 再见||132 . 45 再见
+2||吉祥 1185 保持 6500 预计 过 大王庄 后 下降||保持 6500 1185
+2||白鹭 8412 巡航 高度层 9800 米 使用 跑道 28 应答 机 6312 离地 后 联系 进近 123 . 3||9800 跑道 28 应答 机 6312 联系 进近 1233
+2||国航 4104 离地 后 右转 航向 030||航向 030 4104
+2||国航 6966 广州 133 . 25 再见||133 25 6966
+2||国航 969 联系 上海 132 . 45 再见||132 . 45 再见 969
+2||东方 123 跑道 17 L 起飞 了 正在 上升 至 600 米||跑道 17 L 起飞 了 正在 上升 600
+2||南方 3199 下降 标 压 3600 米 保持||下降 3600 3199
+2||海南 7280 你好 06 右 跑道 外 等||06 右 跑道 外 等
+2||CSN 3102 滑 到 18 号 跑道||滑 到 18 号 跑道
+2||CES - 747 下降 到 3900 联系 上海 进近 125 . 4 再见||联系 上海 进近 125 . 4 下降 到 3900
+2||春秋 8910 下降 到 3900 联系 上海 进近 128 . 1 再见||联系 进近 128 1 再见 下降 到 3900 8910
+2||国航 0003 地面 风 050 03 米 每秒 跑道 17 左 可以 起飞||17 左 可以 起飞 0003
+2||国航 0003 联系 离场 119 . 15 再见||联系 离场 119 15 0003
+2||国航 0003 海口 雷达 识别 上 标 压 5400 米 保持||上 5400 保持 海口 雷达 识别 国航 0003
+2||奥凯 2778 三亚 塔台 继续 进近 跑道 26 修正 海压 1008||三亚 塔台 继续 进近 跑道 26 1008 2778
+2||上航 4929 前方 道口 尽快 脱离 脱离 报||前方 道口 尽快 脱离 脱离 报
+2||春秋 8910 前方 道口 尽快 脱离 脱离 报||前方 道口 尽快 脱离 脱离 报
+2||国航 4104 保持 6500 预计 过 大王庄 后 下降||保持 6500
+2||海南 7280 在 Charlie 穿越 B 341 航路 高度 8900 米||在 Charlie 穿越 B 341 航路 高度 8900
+2||南航 3101 联系 广州 120 . 75 再见||120 . 75 3101
+2||海南 7708 联系 广州 120 . 75 再见||120 . 75
+2||国航 969 联系 广州 134 . 5 再见||134 . 5 969
+2||国航 4118 联系 广州 134 . 5 再见||134 . 5 4118
+2||海南 7708 联系 广州 134 . 5 再见||134 . 5 7708
+2||奥凯 2778 联系 广州 133 . 25 再见||133 . 25
+2||西藏 9811 08 左 跑道 外 等||08 跑道 外 等 9811
+2||上航 4929 你好 02 左 跑道 外 等||02 跑道 外 等 4929
+2||国航 6966 保持 5900 预计 过 大王庄 后 下降||保持 5900 69660
+2||国航 4118 直线 进近 跑道 16 地面 风 190 度 7 米 每秒 修正 海压 1001||直线 进近 跑道 16 4118
+2||国航 969 直线 进近 跑道 16 地面 风 190 度 7 米 每秒 修正 海压 1001||直线 进近 跑道 16 国航 969
+2||深圳 9897 直线 进近 跑道 16 地面 风 190 度 7 米 每秒 修正 海压 1001||直线 进近 跑道 16 9897
+2||海南 7280 广州 133 . 25 再见||133 . 25
+2||西藏 9811 加入 三边 跑道 24 地面 风 270 度 7 米 每秒 修正 海压 1012||加入 三边 跑道 24 9811
+2||国航 1301 地面 风 1802 02 左 可以 落地||02 落地 1301
+2||上航 4929 因为 延迟 左转 盘旋||左转 盘旋 4929
+2||国航 0003 海口 地面 可以 推出 开车 机头 朝 西||机头 朝 西 0003
+2||AFR265 unknow traffic 1 o'clock15 kilometers opposite direction fast moving report traffic in sight||traffic in sight
+2||CSC215 unknow traffic 6 o'clock15 kilometers opposite direction fast moving report traffic in sight||in sight
+2||CSN3356 unknow traffic 3 o'clock10 kilometers opposite direction fast moving report traffic in sight||3356 traffic in sight
+2||AFR265 unknow traffic 1 o'clock15 kilometers opposite direction fast moving report traffic in sight||265 roger in sight
+2||AMU886 unknow traffic 6 o'clock 8 kilometers oppsite direction fast moving report traffic in sight||Looking AMU
+2||AAL126 unknow traffic 3 o'clock 20 kilometers oppsite direction fast moving report traffic in sight||Looking out 126
+2||CAL545 unknow traffic 4 o'clock 12 kilometers oppsite direction fast moving report traffic in sight||Looking out
+2||CSC215 不明 飞行 活动 3 点钟 方位 20 公里 相对 飞行 快速 移动 看到 活动 报告||正在 观察
+2||AFR565 unknow traffic 10 o'clock15 miles crossing left to rightfast moving report traffic in sight||565 negative contact
+2||CSC2125 unknow traffic 4 o'clock14 miles crossing left to rightfast moving report traffic in sight||CSC request vectors
+2||ALL138 report level||3000
+2||ALL138 report level||Maintaining 4200 AAL138
+2||CPA6111 report level||3900 CPA6111
+2||AMU866 不明 飞行 活动 6 点钟 方位 8 公里 相对 飞行 快速 移动 看到 活动 报告||AMU866
+2||AIC349 report leaving 7500 meters||leaving 7500
+2||AAR3213 report leaving 7500 meters||leaving AAR3213
+2||AHK8783 conffirm squawk 6632||6632
+2||BAW297 TCAS RA report returning to clearance||returning
+2||ANA1260TCAS RA report returning to clearance||returning to clearance
+2||CCA1730 TCAS RA report returning to clearance||returning to clearance
+2||AFR116 不明 飞行 活动 4 点钟 方位 12 公里 相对 飞行 快速 移动 看到 活动 报告||正在 观察
+2||CPA6111 cross Runway 22 report vacated||CPA6111 vacated
+2||CBJ5154 cross Runway 22 report vacated||runway vacated
+2||AIC349 report reaching 6500 meters||AIC349 reaching
+2||CES5321 report leaving 6500 meters||leaving 6500 meters
+2||CSC2125 不明 飞行 活动 10 点钟 方位 15 海里 从 左向右 穿越 快速 移动 看到 活动 报告||2125 请求 引导
+2||西藏 6275 距 魏县 40 公里 报告||40 西藏 6275
+2||CSC2125 不明 飞行 活动 8 点钟 方位 10 海里 从 左向右 穿越 快速 移动 看到 活动 报告||CSC 没有 看到 请求 引导
+2||奥凯 2747 请 报告 空速||空速 250 奥凯 2747
+2||深圳 4824 停机位 B3 到位 报||地面 停机位 B3 到位 了
+2||四川 4436 停机位 B2 到位 报||四川 4436 到位 了
+2||北京 放行 吉祥 1163 停机位 A4 去 浦东 申请 放行||吉祥 1163 可以 飞行
+2||北京 放行 吉祥 1112 停机位 B2 去 浦东 申请 放行||可以 沿 计划 航路 飞行 至 上海浦东
+2||北京 放行 吉祥 1112 停机位 B2 去 浦东 申请 放行||可以 沿 计划 航路 飞行 至 上海浦东
+2||国航 1206 东方 区域 证实 是否 获准 RVSM 运行||国航 1206 不是
+2||春秋 8845 东方 区域 证实 是否 获准 RVSM 运行||东方 区域 是
+2||吉祥 1276 北京 区域 证实 是否 获准 RVSM 运行||是 RVSM
+2||DLH457 不明 飞行 活动 3 点钟 方位 15 海里 从 左向右 穿越 快速 移动 看到 活动 报告||DLH 没有 请求 引导
+2||山东 5023 左转 C 目视 引导 车 了 吗||目视 引导 车 了
+2||国航 1022 左转 D 目视 引导 车 了 吗||目视 1022
+2||四川 2221 左转 D 目视 引导 车 了 吗||目视 了 四川
+2||上海 区域 吉祥 4667 请求 在 DAL VOR 穿越 B1||可以 在 DAL VOR 穿越 B1 高度 4000 米
+2||北京 区域 四川 2110 请求 在 DAL VOR 穿越 B2||四川 2110 穿越 B2
+2||CHQ1220 report distance form NJL DME||25 orm NJL DME CCA1220
+2||AFR2034 report distance form DAL DME||30 kilometers form DAL DME
+2||CHH7288 report distance form LJG DME||48 CHH7288
+2||SIA805 report distance form WXL DME||55 kilometers 805
+2||GCR6500 report 30 kilomerters form HYN DME||30 form HYN DME GCR6500
+2||CSN3201 报告 高度||保持 3000 米
+2||CES5440 confirm you can line up runway 17L by P6 and make a inter section takeoff||affirmative
+2||CHH7265 confirm you can line up runway 16L by P4 and make a inter section takeoff||affirmative
+2||PIA853 confirm you can line up runway 18L by P5 and make a inter section takeoff||affirmative 853
+2||OKA2850 confirm you can line up runway 16R by P6 and make a inter section takeoff||affirmative
+2||AAL138 报告 高度||7200
+2||CXN641 please report your indicate airspeed||roger
+2||AAR336 please report your indicate airspeed||245 konts AAR336
+2||CSN3710 please report your indicate airspeed||235 konts
+2||CES4622 gate A2 report when rady||CES4622 gate
+2||CES5263 gate C1 report when rady||C1 flight plan submitted
+2||kunming delivery CCA6233 on gate A2 request clearance to hongqiao||CCA6233 cleared
+2||kunming delivery CQH4551 on gate A1 request clearance to hongqiao||CQH4551 cleared
+2||kunming delivery CQH1022 on gate C3 request clearance to hongqiao||cleared to shanghai airport
+2||AFR182 dongfang control confirm RVSM approved||negative RVSM
+2||CPA102 dongfang control confirm RVSM approved||dongfang controlaffirm
+2||CAL545 hold short of runway 17L request cross runway||CAL545 cleared cross
+2||CES5301 hold short of runway 14R request cross runway||cross runway 14R
+2||CES5121 turn left join A do you have the follow me car insight||insight CES5121
+2||CDG4670 turn left join B do you have the follow me car insight||follow me car insight
+2||CPA347 turn left join C do you have the follow me car insight||follow me car insight
+2||dongfang control GCR7769 request to cross C5 at DAL VOR||cross C5 at DAL VOR at 3800 meters
+2||ALK111 报告 速度||280ALK111
+2||AIC349 离开 7500 米 报告||离开 AIC349
+2||山东 448 离开 4500 米 报告||离开 4500
+2||春秋 6213 离开 5000 米 报告||离开 5000
+2||春秋 8613 返回 许可 高度 报告||返回 春秋 8613
+2||春秋 8994 返回 许可 高度 报告||返回 春秋 8994
+2||SLA5188 联系 上海 区域 1217||12175188
+2||AHK8783 联系 东方 区域 1275||12758783
+2||CSN3201 穿越 14 号 跑道 脱离 报告||CSN3201 脱离
+2||AIC349 离开 6000 米 报告||349 离开 6000 米
+3||AFR265 unknow traffic 4 o'clock9 kilometers opposite direction fast moving report traffic in sight||AFR265 see the traffic
+3||CSC215 unknow traffic 3 o'clock12 kilometers opposite direction fast moving report traffic in sight||CSC215 rogersee the traffic
+3||上海 区域 顺丰 3376 请求 转换 频率 1175||顺丰 3376 上海 区域 可以 调节
+3||东方 进近 吉祥 1659 请求 直线 VOR 进近 跑道 04||吉祥 1659 东方 进近 没 问题
+3||CSN3201 report level||we are in 3000 meters CSN3201
+3||ANA917 report level||now in 3000 meters ANA917
+3||深圳 地面 早上好 东方 2048 机型 波音 777 申请 一个 停机位||东方 2048 到 12 号 停
+3||进近 吉祥 6323 请求 继续 下降||吉祥 6323 降到 2000
+3||进近 春秋 8799 请求 继续 上升||春秋 8799 继续 上 至 4300 保持
+3||AAL126 不明 飞行 活动 3 点钟 方位 20 公里 相对 飞行 快速 移动 看到 活动 报告||在 看 AAL126
+3||吉祥 1165 超越 前机 B737 报告||吉祥 1165 超过 了
+3||春秋 8868 超越 前机 A737 报告||春秋 8868 过 了 前机
+3||AFR116 不明 飞行 活动 2 点钟 方位 9 公里 相对 飞行 快速 移动 看到 活动 报告||在 了解 AFR116
+3||CSN3201 cross Runway 22 report vacated||CSN3201 has crossed runway 22
+3||shanghai approach CES2084 request fly heading 100 due to CB occured||CES2084 heading 100 allowed
+3||shanghai approach CCA4144 request fly heading 100 due to CB occured||CCA4144 heading 100 allowed
+3||shanghai approach DKH1248 request fly heading 100 due to CB occured||DKH1248 heading 100 allowed
+3||春秋 8814 报告 距 花垣 DME 的 距离||知道 了 春秋 8814
+3||吉祥 1112 报告 距 魏县 DME 的 距离||收到 吉祥 1112
+3||西藏 6275 距 魏县 40 公里 报告||好 西藏 6275
+3||西藏 6297 证实 P4 进 跑道 起飞 没有 问题||好 的 西藏 6297
+3||吉祥 1102 证实 P6 进 跑道 起飞 没有 问题||可以 起飞 吉祥 1102
+3||CCA4138 report the airbus on final in sight||we have see the airbus CCA4138
+3||DKH1163 report the airbus on final in sight||see the airbus DKH1163
+3||国航 1429 停机位 A2 到位 报||地面 国航 1429 知道 了
+3||春秋 8996 停机位 B2 到位 报||地面 春秋 8996 知道 了
+3||四川 4436 停机位 B2 到位 报||地面 四川 4436 可以 了
+3||CHH7873 不明 飞行 活动 10 点钟 方位 15 海里 从 左向右 穿越 快速 移动 看到 活动 报告||CHH7873 没有 发现
+3||北京 放行 吉祥 1163 停机位 A4 去 浦东 申请 放行||吉祥 1163 放行
+3||昆明 放行 四川 4612 停机位 B3 去 江北 申请 放行||四川 4612 按计划 飞行
+3||春秋 8845 东方 区域 证实 是否 获准 RVSM 运行||东方 区域 春秋 8845 收到
+3||吉祥 1202 北京 区域 证实 是否 获准 RVSM 运行||北京 区域 吉祥 1202 收到
+3||国航 6229 北京 区域 证实 是否 获准 RVSM 运行||北京 区域 国航 6229 明白
+3||吉祥 1276 北京 区域 证实 是否 获准 RVSM 运行||北京 区域 吉祥 1276 明白
+3||奥凯 111211L 外 等 请求 穿越 跑道||奥凯 1112 可以 过 跑道 11L
+3||春秋 8878 左转 A 目视 引导 车 了 吗||看见 了 春秋 8878
+3||国航 1023 右转 A 目视 引导 车 了 吗||看见 了 国航 1023
+3||西藏 6212 右转 C 目视 引导 车 了 吗||看见 了 西藏 6212
+3||国航 1022 左转 D 目视 引导 车 了 吗||在 视线 里 了 国航 1022
+3||北京 区域 春秋 8862 请求 在 DAL VOR 穿越 A1||春秋 8862 好 的 可以 在 DAL VOR 过 A1
+3||上海 区域 吉祥 4667 请求 在 DAL VOR 穿越 B1||吉祥 4667 好 的 可以 在 DAL VOR 过 B1
+3||上海 区域 顺丰 6690 请求 在 DAL VOR 穿越 B3||顺丰 6690 好 的 可以 在 DAL VOR 穿 B3
+3||上海 区域 吉祥 4683 请求 在 DAL VOR 穿越 A3||吉祥 4683 好 的 在 DAL VOR 穿 A3
+3||北京 区域 四川 2110 请求 在 DAL VOR 穿越 B2||四川 2110 没 问题 可以 在 DAL VOR 穿 B2 高度 5200 米
+3||吉祥 4677 前机 报告 有五边 风 切变||了解 吉祥 4677
+3||CCA1212 不明 飞行 活动 10 点钟 方位 15 海里 从 左向右 穿越 快速 移动 看到 活动 报告||CCA1212 没有 发现
+3||CHQ1220 report distance form NJL DME||roger CCA1220
+3||AFR2034 report distance form DAL DME||roger AFR2034
+3||GCR6500 report 30 kilomerters form HYN DME||understand GCR6500
+3||CXA2811 report 50 kilomerters form NJL DME||no problem CXA2811
+3||CSN3201 报告 高度||现在 是 2500 CSN3201
+3||CCA1212 report 36 kilomerters form WXI DME||no problem CCA1212
+3||CES5440 confirm you can line up runway 17L by P6 and make a inter section takeoff||received CES5440
+3||CAL312 confirm you can line up runway 17R by P9 and make a inter section takeoff||got it CAL312
+3||ALK505 please report your indicate airspeed||we are at 265 konts ALK505
+3||BAW038 gate B2 report when ready||ground BAW038 gate B2 we are ok
+3||CSS6878 gate B4 report when rady||ground CSS6878 gate B4 we have no problem
+3||CES5263 gate C1 report when rady||ground CES5263 gate C1 we have no problem
+3||kunming delivery CCA6233 on gate A2 request clearance to hongqiao||CCA6233 you can fly to shanghai airport
+3||kunming delivery CQH1022 on gate C3 request clearance to hongqiao||CQH1022 allow you to fly to shanghai airport
+3||CHH7988 报告 高度||马上 到达 3000 米 CHH7988
+3||EPA6218 dongfang control confirm RVSM approved||dongfang control EPA6218 no RVSM
+3||CAL545 hold short of runway 17L request cross runway||CAL545 you can cross runway 17L
+3||CES5301 hold short of runway 14R request cross runway||CES5301 allow to cross runway 14R
+3||AAL186 turn left join A do you have the follow me car insight||we have see the follow me car AAL186
+3||CPA347 turn left join C do you have the follow me car insight||we have see the follow me car CPA347
+3||beijing control DLH723 request to cross B1 at DAL VOR||DHL723 you can cross B1 at DAL VOR at 5500 meters
+3||beijing control HBH8380 request to cross C1 at DAL VOR||HBHB8380 you are allow to cross C1 at DAL VOR at 5800 meters
+3||东方 塔台 吉祥 893 27 号位 请求 推出||吉祥 893 好 的 你 可以 推出
+3||东方 塔台 东方 381 24 号桥 请求 开车||东方 381 你 还 需要 25 分
+3||东方 塔台 吉祥 080 24 号位 请求 开车||吉祥 080 大概 需要 16 分后 开出
+3||东方 塔台 国航 5301 请求 穿越 22 号 跑道||国航 301 穿 22 号 跑道 离开 报告
+3||北京 塔台 吉祥 128636 号位 请求 反向 滑行||吉祥 1286 北京 塔台 好 的
+3||国航 1429 返回 许可 高度 报告||回到 了 允许 的 高度 国航 1429
+3||CAL503 TCAS RA 告警||CAL503 知道 了
+3||ANA1260 TCAS RA 告警||ANA1260 好 的
+3||东方 塔台 春秋 8614 请求 滑行||春秋 8614 到 12 号 跑道
+3||CES5301 穿越 22 号 跑道 脱离 报告||CES5301 离开  跑道
+3||CBJ5154 穿越 22 号 跑道 脱离 报告||CBJ5154 离开 了 跑道
+3||CSN3201 穿越 22 号 跑道 脱离 报告||CSN3201 离开 了

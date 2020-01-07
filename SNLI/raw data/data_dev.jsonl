@@ -1,0 +1,576 @@
+{"gold_label": "0", "sentence1": "\ufeff\u6625\u79cb 8910 \u5730\u9762 \u6e29\u5ea6 10 \u5ea6 \u53ef\u4ee5 \u63a8\u51fa \u8dd1\u9053 13 \u53f3 \u4fee\u6b63 \u6d77\u538b 1013", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa \u4fee\u6b63 \u6d77\u538b 1013 \u6625\u79cb 8910"}
+{"gold_label": "0", "sentence1": "CA 981 02 \u5de6 \u53ef\u4ee5 \u843d\u5730 \u5730\u9762 \u98ce 270 \u5ea6 10 \u7c73 \u6bcf\u79d2", "sentence2": "\u53ef\u4ee5 \u843d\u5730 CA 981"}
+{"gold_label": "0", "sentence1": "CCA1389 shanghai verify your present position", "sentence2": "12nm over P43 CCA1389"}
+{"gold_label": "0", "sentence1": "TBA6319 shanghai verify your present position", "sentence2": "10nm over P43 TBA6319"}
+{"gold_label": "0", "sentence1": "CQH2747 confirm speed", "sentence2": "300 knots CQH2747"}
+{"gold_label": "0", "sentence1": "OKA2693 overtake the B737 ahead", "sentence2": "OKA2693 overtaken and passed the B737"}
+{"gold_label": "0", "sentence1": "OKA2747 confirm descending", "sentence2": "1500 feet per minute OKA2747"}
+{"gold_label": "0", "sentence1": "CSN6570 confirm descending", "sentence2": "1500 feet per minute CSN6570"}
+{"gold_label": "0", "sentence1": "shanghai approach CCA4144 request fly heading 100 due to CB occured", "sentence2": "CCA4144 heading 100 approved"}
+{"gold_label": "0", "sentence1": "shanghai approach DKH1248 request fly heading 100 due to CB occured", "sentence2": "DKH1248 heading 100 approved"}
+{"gold_label": "0", "sentence1": "shanghai approach TBA6287 request fly heading 110 due to CB occured", "sentence2": "TBA6287 heading 110 approved"}
+{"gold_label": "0", "sentence1": "CQH8947 report the airbus on final in sight", "sentence2": "airbus in sight CQH8947"}
+{"gold_label": "0", "sentence1": "TBA6283 report the airbus on final in sight", "sentence2": "airbus in sight TBA6283"}
+{"gold_label": "0", "sentence1": "TBA9970 advise transponder capability", "sentence2": "transponder charlie TBA9970"}
+{"gold_label": "0", "sentence1": "CSN6580 advise transponder capability", "sentence2": "transponder charlie CAN6580"}
+{"gold_label": "0", "sentence1": "\u4e0a\u822a 4929 \u8fd1 \u5730 \u544a\u8b66 \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 1008", "sentence2": "\u4e0a \u5230 \u4fee \u538b 900 \u7c73 \u4fee \u538b 1008 \u4e0a\u822a 4929"}
+{"gold_label": "0", "sentence1": "CCA1277 shanghai approach cleared to intercept localizer runway 18L report established", "sentence2": "shanghai approach CCA1277 established localizer runway 18L"}
+{"gold_label": "0", "sentence1": "CCA1409 shanghai approach cleared to intercept localizer runway 15L report established", "sentence2": "shanghai approach CCA1409 established localizer runway 15L"}
+{"gold_label": "0", "sentence1": "CQH8614 shanghai approach cleared to intercept localizer runway 18L report established", "sentence2": "shanghai approach CQH8614 established localizer runway 18L"}
+{"gold_label": "0", "sentence1": "CCA1439 shanghai approach cleared to intercept localizer runway 18L report established", "sentence2": "shanghai approach CCA1439 established localizer runway 18L"}
+{"gold_label": "0", "sentence1": "DKH1163 runway 18L clear to land report vacated", "sentence2": "dongfang tower DKH1163 vacated runway 18L"}
+{"gold_label": "0", "sentence1": "DKH1659 runway 18L clear to land report vacated", "sentence2": "hongqiao tower DKH1659 vacated runway 18L"}
+{"gold_label": "0", "sentence1": "\u6606\u660e \u653e\u884c \u4e1c\u65b9 5440 \u505c\u673a\u4f4d A1 \u53bb \u8679\u6865 \u7533\u8bf7 \u653e\u884c", "sentence2": "\u4e1c\u65b9 5440 \u53ef\u4ee5 \u6cbf \u8ba1\u5212 \u822a\u8def \u98de\u884c \u81f3 \u4e0a\u6d77 \u8679\u6865"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u653e\u884c \u5409\u7965 1112 \u505c\u673a\u4f4d B2 \u53bb \u6d66\u4e1c \u7533\u8bf7 \u653e\u884c", "sentence2": "\u5409\u7965 1112 \u53ef\u4ee5 \u6cbf \u8ba1\u5212 \u822a\u8def \u98de\u884c \u81f3 \u4e0a\u6d77\u6d66\u4e1c"}
+{"gold_label": "0", "sentence1": "AAL126 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 1 \u70b9\u949f \u65b9\u4f4d 12 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "AAL126 \u6ca1\u6709 \u770b\u5230 \u8bf7\u6c42 \u5f15\u5bfc"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u533a\u57df \u5409\u7965 1246 \u8bf7\u6c42 \u8f6c\u6362 \u9891\u7387 1255", "sentence2": "\u5409\u7965 1246 \u5317\u4eac \u533a\u57df \u540c\u610f \u8f6c\u6362 \u9891\u7387"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5854\u53f0 \u5409\u7965 165926 \u53f7\u4f4d \u8bf7\u6c42 \u63a8\u51fa", "sentence2": "\u5409\u7965 1659 \u5317\u4eac \u5854\u53f0 \u540c\u610f \u63a8\u51fa"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u5c71\u4e1c 18224 \u53f7\u4f4d \u8bf7\u6c42 \u63a8\u51fa", "sentence2": "\u5c71\u4e1c 182 \u4e1c\u65b9 \u5854\u53f0 \u9884\u8ba1 \u5ef6\u8bef \u4e09\u5206\u949f"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 3342 \u5317\u4eac \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u5317\u4eac \u533a\u57df \u897f\u85cf 3342 \u662f RVSM"}
+{"gold_label": "0", "sentence1": "\u5409\u7965 1276 \u5317\u4eac \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u5317\u4eac \u533a\u57df \u5409\u7965 1276 \u662f RVSM"}
+{"gold_label": "0", "sentence1": "DLH457 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 3 \u70b9\u949f \u65b9\u4f4d 15 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "DLH457 \u6ca1\u6709 \u770b\u5230 \u8bf7\u6c42 \u5f15\u5bfc"}
+{"gold_label": "0", "sentence1": "\u5c71\u4e1c 8052 \u5317\u4eac \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u5317\u4eac \u533a\u57df \u5c71\u4e1c 8052 \u662f RVSM"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 458817L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "\u6d77\u5357 4588 \u53ef\u4ee5 \u7a7f\u8d8a \u8dd1\u9053 17L"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 110713L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "\u5965\u514b 1107 \u53ef\u4ee5 \u7a7f\u8d8a \u8dd1\u9053 13L"}
+{"gold_label": "0", "sentence1": "CA 982 \u53ef\u4ee5 \u843d\u5730 \u5730\u9762 \u98ce 290 \u5ea6 5 \u7c73 \u6bcf\u79d2", "sentence2": "\u53ef\u4ee5 \u843d\u5730 \u5730\u9762 \u98ce 290 \u5ea6 5 \u7c73 \u6bcf\u79d2 CA 982"}
+{"gold_label": "1", "sentence1": "Beijing Approach G-ABCD", "sentence2": "KLM898 Dongfang Approach"}
+{"gold_label": "1", "sentence1": "UAL889 climb to FL80", "sentence2": "Descend to FL80 UAL889"}
+{"gold_label": "1", "sentence1": "CCA1331 correct contact Dongfang Tower on 168.7 correction I say again contact Dongfang Tower on 118.1", "sentence2": "Roger contact 118.7 CCA1331"}
+{"gold_label": "1", "sentence1": "CCA1331 correct contact Dongfang Tower on 108.7 correction I say again contact Dongfang Tower on 118.1", "sentence2": "Roger contact Shanghai Tower on 127.5 CCA1331"}
+{"gold_label": "1", "sentence1": "CCA1331 correct contact Dongfang Tower on 115.7 correction I say again contact Dongfang Tower on 118.1", "sentence2": "Roger contact Beijing Tower on 118.7 G-DC"}
+{"gold_label": "0", "sentence1": "CA 982 \u53ef\u4ee5 \u80fd\u89c1 \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 \u8054\u7cfb \u5854\u53f0 118 . 1", "sentence2": "\u53ef\u4ee5 \u80fd\u89c1 \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 \u8054\u7cfb \u5854\u53f0 118 . 1 CA 982"}
+{"gold_label": "1", "sentence1": "Viasa898 line up", "sentence2": "Lining up CES5301"}
+{"gold_label": "1", "sentence1": "CCA101 behind the landing aircraft line up and wait", "sentence2": "hold and wait CCA1331"}
+{"gold_label": "1", "sentence1": "NWA088 behind the landing aircraft line up and wait", "sentence2": "hold and wait NWA088"}
+{"gold_label": "1", "sentence1": "UV-WXY take off immediately or vacate runway", "sentence2": "Taking off maintain heading runway UV-WXY"}
+{"gold_label": "1", "sentence1": "OXSPR take off immediately or vacate runway", "sentence2": "Taking off or vacating runway CSE303"}
+{"gold_label": "1", "sentence1": "CXA8102 Dongfang Approach radar contact via Alpha 01 Departure climb to 4500 meters on standard expedite climb to 3000 meters", "sentence2": "Climbing to 6000 meters expedite CSN302"}
+{"gold_label": "1", "sentence1": "CDG4670 descend to 8400 meters", "sentence2": "Descending to 8100 meters QTR895"}
+{"gold_label": "1", "sentence1": "CCA1331 hold position cancel take off due to vehicle on the runway", "sentence2": "take off immediately cancel hold position KLM898"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8910 \u8fd1 \u5730 \u544a\u8b66 \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 1016", "sentence2": "\u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 1016 \u6625\u79cb 8910"}
+{"gold_label": "1", "sentence1": "UAL889 runway 36L cleared to land", "sentence2": "Runway 36L cleared to land G-ABCD"}
+{"gold_label": "1", "sentence1": "Beijing control CES2020 descending to 7200 meters", "sentence2": "CES2105 Beijing control descend to 7800 meters"}
+{"gold_label": "0", "sentence1": "CA 981 \u8ddd \u63a5 \u5730\u70b9 12 \u516c\u91cc \u73b0\u5728 \u5f00\u59cb \u4e0b\u964d \u4fdd\u6301 3 \u5ea6 \u4e0b\u6ed1 \u89d2", "sentence2": "\u8ddd \u63a5 \u5730\u70b9 12 \u516c\u91cc \u73b0\u5728 \u5f00\u59cb \u4e0b\u964d \u4fdd\u6301 3 \u5ea6 \u4e0b\u6ed1 \u89d2 CA 981"}
+{"gold_label": "1", "sentence1": "Viasa898 Shanghai Control climb to 8100 meters", "sentence2": "Beijing Control climb at 19 m/s Viasa898"}
+{"gold_label": "1", "sentence1": "G-ABCD cleared to London via flight planned route", "sentence2": "Cleared to Tianjin via flight planned route D-TV"}
+{"gold_label": "1", "sentence1": "NWA088 cleared to London via flight planned route", "sentence2": "Cleared to Tianjin via flight planned route Caledonian211"}
+{"gold_label": "0", "sentence1": "CA 982 \u4e0b\u964d \u5230 5100 \u7c73 \u79bb\u5f00 10000 \u7c73 \u62a5\u544a", "sentence2": "\u4e0b \u5230 5100 \u7c73 \u79bb\u5f00 10000 \u7c73 \u62a5\u544a CA 982"}
+{"gold_label": "1", "sentence1": "SAS996 contact DTWR on 118.4 Correction 168.5", "sentence2": "Contact DTWR on 118.4 CPA903"}
+{"gold_label": "1", "sentence1": "G-PC contact DTWR on 115.4 Correction 198.5", "sentence2": "115.4 UAL781"}
+{"gold_label": "1", "sentence1": "SAS996 contact DTWR on 111.4 Correction 168.5", "sentence2": "Contact DTWR on 111.4 SAS996"}
+{"gold_label": "1", "sentence1": "SAS996 contact DTWR on 158.4 Correction 198.5", "sentence2": "Contact DTWR on 158.4 SAS996"}
+{"gold_label": "1", "sentence1": "Dongfang Approach BAW038 5400 meters maintaining", "sentence2": "BAW080 Dongfang Tower"}
+{"gold_label": "1", "sentence1": "CES2020 Beijing Control climb at 2000 ft/min or greater", "sentence2": "Shanghai Control climb at 1500 ft/min or greater CES2020"}
+{"gold_label": "1", "sentence1": "AAL128 Shanghai Tower make full stop cleared to land", "sentence2": "Cancel full stop HDA841 Dongfang Tower"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 CSN 1356 \u91cd\u578b \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u91cd\u578b \u8bf7\u6c42 \u6ed1\u884c \u4e1c\u65b9 \u5854\u53f0 CSN 1356"}
+{"gold_label": "1", "sentence1": "ZE692 change frequency to Foxtrot Control on 126.9 good bye", "sentence2": "Change frequency to Shanghai Control on 126.9 good bye DNO"}
+{"gold_label": "1", "sentence1": "Y-HJFL climb to FL 200 report passing level 140", "sentence2": "Climbing to FL 120 will report passing level 180 Y-HJFL"}
+{"gold_label": "1", "sentence1": "BAW039 climb to FL 210 report passing level 140", "sentence2": "Climbing to FL 170 ACA387"}
+{"gold_label": "1", "sentence1": "PQ-RST squawk A4526", "sentence2": "Squawking 8400 BAW039"}
+{"gold_label": "1", "sentence1": "PQ-RST confirm leaving 7500 meters", "sentence2": "negitive confirm leaving 5500 meters PQ-RST"}
+{"gold_label": "1", "sentence1": "UV-WXY radar contact descend to 9200 meters", "sentence2": "Leaving 9200 meters UV-WXY"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u4e0a\u5347 \u5230 8100", "sentence2": "\u4e0a \u5230 8100 CSN 3102"}
+{"gold_label": "1", "sentence1": "YZR7991 radar contact descend to 9100 meters", "sentence2": "Maintain 9200 meters YZR7991"}
+{"gold_label": "1", "sentence1": "G-ABCD Dongfang Tower wind 110 degrees 5 m/s Runway 09 cleared to land", "sentence2": "Wind 110 degrees 5 m/s Cleared to take off Runway 09 B2711"}
+{"gold_label": "1", "sentence1": "GCR6529 Beijing Control descend to reach 9500 meters at 05", "sentence2": "Shanghai Control descend to reach 9500 meters at 09 CES2020"}
+{"gold_label": "1", "sentence1": "G-ABCD cleared to cross V22 at KIG VOR 3000 meters", "sentence2": "cleared to cross V21 at KIG VOR 2000 meters B2711"}
+{"gold_label": "1", "sentence1": "CPA295 cleared to cross V21 at KIG VOR 2400 meters", "sentence2": "Cleared to cross V21 at KIG VOR 2000m CCA1352"}
+{"gold_label": "1", "sentence1": "CPA295 radar contact maintain 9800 meters continue present heading", "sentence2": "Roger climbing to 9800 meters continue present heading CPA295"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 9811 \u7acb\u5373 \u4e2d\u65ad \u8d77\u98de", "sentence2": "\u4e2d\u65ad \u8d77\u98de \u897f\u85cf 9811"}
+{"gold_label": "1", "sentence1": "CCA1730 turn left 30 degrees and track out 35 kilometers", "sentence2": "Turning 30 degrees right and 30 kilometers out CCA1730"}
+{"gold_label": "1", "sentence1": "AAR311 ILS approach Runway 36L", "sentence2": "Dongfang approach Runway 36R B2341"}
+{"gold_label": "0", "sentence1": "CSN 3132 \u505c\u673a\u4f4d 24 \u8bf7\u6c42 \u5f00\u8f66 \u901a\u64ad B \u4fee\u6b63 \u6d77\u538b 0832", "sentence2": "\u505c\u673a\u4f4d 24 \u8bf7\u6c42 \u5f00\u8f66 \u901a\u64ad B \u4fee \u538b 0832 CSN 3132"}
+{"gold_label": "1", "sentence1": "G-BCDO Beijing approach Runway 19L", "sentence2": "ILS approach Runway 18R G-BCDO"}
+{"gold_label": "1", "sentence1": "UV-WXY ILS approach Runway 12L", "sentence2": "YFJ approach Runway 11 UV-WXY"}
+{"gold_label": "1", "sentence1": "BAW039 ILS approach Runway 15L", "sentence2": "ILS approach Runway 11 BAW039"}
+{"gold_label": "1", "sentence1": "UPS2921 descend to 1800 meters on QNH 1010", "sentence2": "Climbing to 2800 meters on standard CXA8101"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9897 \u8fd1 \u5730 \u544a\u8b66 \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 0832", "sentence2": "\u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee \u538b 0832 \u6df1\u5733 9897"}
+{"gold_label": "1", "sentence1": "CSN303 cleared for ILS approach Runway 36L report established on localizer", "sentence2": "Shanghai approach Runway 09 will report established on localizer UPS2921"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9897 \u4fdd\u6301 6100 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 6100 \u6df1\u5733 9897"}
+{"gold_label": "1", "sentence1": "CCA1331 approach 8900 meters", "sentence2": "Maintain 8900 meters CXA8101"}
+{"gold_label": "1", "sentence1": "KLM898 climb to and maintain 6300 meters", "sentence2": "Maintain 6800 meters CKK206"}
+{"gold_label": "1", "sentence1": "Dongfang Departure KAL135 passing 280 meters climbing to 900 meters", "sentence2": "KAL135 Shanghai Departure climbing to 280 meters"}
+{"gold_label": "1", "sentence1": "Dongfang Departure C-FG passing 250 meters climbing to 1900 meters", "sentence2": "C-FG Shanghai Departure climbing to 250 meters"}
+{"gold_label": "1", "sentence1": "Dongfang Approach G-DC good day", "sentence2": "CES2105 Dongfang Approach"}
+{"gold_label": "1", "sentence1": "CXA8101 Dongfang Departure follow YV 19 Departure continue climb to 3700 meters on QNH 1011", "sentence2": "climb to 2300 meters on standard YV 51 Departure CXA8101"}
+{"gold_label": "1", "sentence1": "EVA707 Dongfang Departure follow YV 32 Departure continue climb to 2400 meters on QNH 1011", "sentence2": "Maintain 2700 meters on standard YV 14 Departure EVA707"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7280 \u4fdd\u6301 6000 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 6000 \u6d77\u5357 7280"}
+{"gold_label": "1", "sentence1": "CSN2105 wind 240 degrees 10 m/s Runway 18L cleared for take off", "sentence2": "Cleared for take off Runway 18R CAL501"}
+{"gold_label": "1", "sentence1": "CSN2105 wind 240 degrees 10 m/s Runway 18L cleared for take off", "sentence2": "Cancel for take off Runway 18R CAL501"}
+{"gold_label": "1", "sentence1": "Pudong Ground B3213 radio check on 119.7", "sentence2": "Dongfang Ground check radio on 127.5 B3213"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 6966 \u4fdd\u6301 5000 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5000 \u5357\u822a 6966"}
+{"gold_label": "1", "sentence1": "LAB808 climb to and maintain 6300 meters", "sentence2": "Climbing to 7700 meters LAB808"}
+{"gold_label": "1", "sentence1": "Pudong Ground F-BCDE radio check on 119.4", "sentence2": "Dongfang Ground check radio on 124.5 F-BCDE"}
+{"gold_label": "1", "sentence1": "UPS2921 Dongfang Tower continue approach wind 260 degrees 7 m/s", "sentence2": "wind 260 degrees 7 m/s take off UPS2921 Dongfang Tower"}
+{"gold_label": "1", "sentence1": "Cruzeiro51 climb to and maintain 8900 meters", "sentence2": "Climbing to 5800 meters Cruzeiro51"}
+{"gold_label": "1", "sentence1": "DLH7323 maintain 8100 meters until further advised", "sentence2": "Climbing to 8800 meters KLM4453"}
+{"gold_label": "1", "sentence1": "DHA901 maintain 8100 meters until further advised", "sentence2": "Climbing to 8800 meters KLM4453"}
+{"gold_label": "1", "sentence1": "CBJ5154 maintain 8800 meters until further advised", "sentence2": "descend to 8100 meters CSN3369"}
+{"gold_label": "1", "sentence1": "CDG1835 maintain 8100 meters until further advised", "sentence2": "Climbing to 8100 meters DAL185"}
+{"gold_label": "1", "sentence1": "AAR3213 climb to 7500 meters", "sentence2": "descend to KLM4453 meters AAR3213"}
+{"gold_label": "1", "sentence1": "CCA1709 Dongfang Approach after passing RENOB climb to 4500 meters", "sentence2": "Dongfang Approach before RENOB descend to 4400 meters CDG1835"}
+{"gold_label": "1", "sentence1": "BAW039 stop descent at 5500 meters", "sentence2": "continue descent at 5500 meters BAW039"}
+{"gold_label": "1", "sentence1": "KLM898 climb to and maintain 6300 meters", "sentence2": "Maintaining 7200 meters CKK206"}
+{"gold_label": "1", "sentence1": "THY021 stop descent at 8000 meters", "sentence2": "continue climb to 5100 meters AAR3213"}
+{"gold_label": "1", "sentence1": "CXA8586 stop descent at 5100 meters", "sentence2": "stop climb to 8000 meters AAR3213"}
+{"gold_label": "1", "sentence1": "CSZ9783 stop descent at 5100 meters", "sentence2": "continue descent at 5100 meters HBH8380"}
+{"gold_label": "1", "sentence1": "CXA8470 stop descent at 4800 meters", "sentence2": "continue descent at 4300 meters CSC8861"}
+{"gold_label": "1", "sentence1": "GCR6529 climb to 10400 meters expedite until passing 8800 meters", "sentence2": "Climbing to 8800 meters GCR6529"}
+{"gold_label": "1", "sentence1": "CHH7988 climb to 11000 meters expedite until passing 7800 meters", "sentence2": "Climbing to 7800 meters CHH7988"}
+{"gold_label": "0", "sentence1": "CCA 083 \u901a\u8fc7 6100 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 090", "sentence2": "\u901a\u8fc7 6100 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 090 CCA 083"}
+{"gold_label": "1", "sentence1": "CKK206 turn right heading 09", "sentence2": "Turning Right heading 05 CKK206"}
+{"gold_label": "1", "sentence1": "QTR895 descend to 8400 meters", "sentence2": "Descending to 8100 meters QTR895"}
+{"gold_label": "1", "sentence1": "AFR116 turn left heading 12", "sentence2": "Turning Right heading 17 AFR116"}
+{"gold_label": "1", "sentence1": "B3213 turn right heading 050", "sentence2": "Turning Right heading 23 B3213"}
+{"gold_label": "0", "sentence1": "CCA 083 \u79bb\u5730 \u540e \u53f3\u8f6c \u822a\u5411 030", "sentence2": "\u79bb\u5730 \u540e \u53f3\u8f6c \u822a\u5411 030 CCA 083"}
+{"gold_label": "1", "sentence1": "EVA707 clear of traffic resume own navigation direct NCH", "sentence2": "Resume own navigation direct NCH G-KSIX"}
+{"gold_label": "1", "sentence1": "AFR129 clear of traffic resume own navigation direct NCH", "sentence2": "clear of traffic AFR129"}
+{"gold_label": "1", "sentence1": "AAL126 fly heading 260 resume LADIX ONE RNAV Departure", "sentence2": "Heading 090 resume LADIX ONE RNAV Departure CPA589"}
+{"gold_label": "1", "sentence1": "THY021 continue present heading", "sentence2": "change present heading DLH723"}
+{"gold_label": "1", "sentence1": "BAW039 continue present heading", "sentence2": "heading 08 UAE309"}
+{"gold_label": "1", "sentence1": "AFR600 resume own navigation to DAL position 15 kilometers north of DAL", "sentence2": "hold position 15 kilometers east of DAL AFR600"}
+{"gold_label": "0", "sentence1": "CES - 747 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u8bf7\u6c42 \u7ee7\u7eed \u4e0a CES - 747"}
+{"gold_label": "1", "sentence1": "DAL185 Runway 18R cleared for take off", "sentence2": "Runway 090 cancel take off G-ABCD"}
+{"gold_label": "1", "sentence1": "KAL135 Runway 19R cleared for take off", "sentence2": "Runway 18L cancel take off KAL135"}
+{"gold_label": "1", "sentence1": "G-CD Runway 18 cleared for take off", "sentence2": "Runway 19 cancel take off G-CD"}
+{"gold_label": "1", "sentence1": "G-ABCD Dongfang Tower Runway 09 cleared for take off", "sentence2": "cancel for take off Runway 080 UNE309 Dongfang Tower"}
+{"gold_label": "1", "sentence1": "EVA712 hold position cancel take off", "sentence2": "take off EVA712"}
+{"gold_label": "1", "sentence1": "CCA1331 hold position cancel take off", "sentence2": "take off CCA1331"}
+{"gold_label": "1", "sentence1": "D-BIXT Dongfang tower stop transmitting", "sentence2": "continue transmitting D-BIXT"}
+{"gold_label": "1", "sentence1": "Sunair715 turn right now heading 280 descending to FL 110", "sentence2": "hold heading descending to FL 110 Sunair715"}
+{"gold_label": "1", "sentence1": "BAW402 taxi to gate D4 via taxiway B2 and D3", "sentence2": "Via taxiway B2 taxi to gate D3 TWA591"}
+{"gold_label": "1", "sentence1": "CES5186 climb to 8900 meters expedite until passing 8400 meters", "sentence2": "Unable to expedite climb due weight CES5186"}
+{"gold_label": "1", "sentence1": "Canada710 taxi to gate D4 via taxiway C2 and D3", "sentence2": "Via taxiway F2 taxi to gate D4 Canada710"}
+{"gold_label": "1", "sentence1": "PQ-RST taxi to gate D4 via taxiway B2 and E2", "sentence2": "Via taxiway B2 taxi to gate D3 PQ-RST"}
+{"gold_label": "1", "sentence1": "B-2711 taxi to gate D4 via taxiway B2 and D3", "sentence2": "Via taxiway C3 taxi to gate D4 B-2711"}
+{"gold_label": "1", "sentence1": "JAL402 taxi to gate D4 via taxiway B2 and D3", "sentence2": "Via taxiway A2 taxi to gate D3 CCA1331"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 1324 \u79bb\u5730 \u540e \u53f3\u8f6c \u822a\u5411 030", "sentence2": "\u79bb\u5730 \u540e \u53f3\u8f6c \u822a\u5411 030 \u56fd\u822a 1324"}
+{"gold_label": "1", "sentence1": "Dongfang Tower B-2711 request low pass for landing runway 18L", "sentence2": "B-2711 Wuhan Tower cleared low pass runway 18R"}
+{"gold_label": "1", "sentence1": "B-2711 runway 18R cleared to land wind 200 10 m/s", "sentence2": "Cleared to take off runway 18L JAL402"}
+{"gold_label": "1", "sentence1": "G-BO extend downwind number 2 follow Y-124KM", "sentence2": "JAL426 reduce your speed from 230 knots to 190 knots"}
+{"gold_label": "1", "sentence1": "G-CD number 1 make short approach", "sentence2": "Short approach B-2711 number 3"}
+{"gold_label": "0", "sentence1": "CES - 747 \u53d6\u6d88 \u7b49\u5f85 \u4e0b\u964d \u5230 7500 \u56de\u5f52 \u822a\u7ebf \u98de VMB", "sentence2": "\u4e0b\u964d \u5230 7500 \u56de\u5f52 \u822a\u7ebf \u98de VMB \u53d6\u6d88 \u7b49\u5f85 CES - 747"}
+{"gold_label": "1", "sentence1": "HL-XPQ turn left heading 140 to intercept ILS runway 36", "sentence2": "Right heading 130 to intercept ILS runway 18 wilco HL-XPQ"}
+{"gold_label": "1", "sentence1": "KAL135 identified descend to 5000 feat on standard", "sentence2": "Climb to 5000 feat on QNH 1014 KAL135"}
+{"gold_label": "1", "sentence1": "N550SD turn right heading 090 radar vectors to a visual final runway 35 ILS unserviceable", "sentence2": "Turn left heading 020 radar vectors to a visual final runway 27 ILS unserviceable N550SD"}
+{"gold_label": "1", "sentence1": "B-FGHI turn right heading 050 radar vectors to a visual final runway 34 ILS unserviceable", "sentence2": "Turn left heading 32 radar vectors to a visual final runway 45 ILS unserviceable B-FGHI"}
+{"gold_label": "1", "sentence1": "CCA1331 going right of track turn left heading 270", "sentence2": "Going left of track left heading 320 CCA1331"}
+{"gold_label": "1", "sentence1": "CCA1331 this will be a surveillance radar approach runway 27 terminating at 1/2 mile", "sentence2": "5000 feet runway 27 CCA1331"}
+{"gold_label": "1", "sentence1": "C-FG cleared visual approach runway 21 number 2 to land contact Tower 119.6 good day", "sentence2": "runway 2 number 2 to land contact 125.8 for Tower C-FG good day"}
+{"gold_label": "1", "sentence1": "JAL426 reduce speed to 160 and maintain to the outer marker", "sentence2": "speed 160 and maintain to the outer marker C-FG"}
+{"gold_label": "1", "sentence1": "JAL426 your position is 10 miles from touchdown", "sentence2": "Position is 160 miles JAL426"}
+{"gold_label": "1", "sentence1": "BAW301 Continue approach on the localizer", "sentence2": "Continue approach on the localizer C-FG"}
+{"gold_label": "1", "sentence1": "Leaving flight level 500 for flight Level 80 DHL721", "sentence2": "DHL721 to flight level 1100"}
+{"gold_label": "1", "sentence1": "Delta Approach AFL138 leaving 8800 feet for 3000 feet", "sentence2": "AFL138 Delta Approach climb to 6000 feet from 3000 feet"}
+{"gold_label": "1", "sentence1": "BAW301 descend in the hold 8000 feet to 6000 feet", "sentence2": "descend to 8000 feet BAW301"}
+{"gold_label": "1", "sentence1": "ANA1260 descend in the hold 8000 feet to 6000 feet", "sentence2": "descend to 8000 feet ANA1260"}
+{"gold_label": "1", "sentence1": "CCA1061 descend in the hold 8000 feet to 6000 feet", "sentence2": "descend to 8000 feet CCA1061"}
+{"gold_label": "1", "sentence1": "N550SD cross V22 at Bravo not before 980", "sentence2": "Cross V22 by Bravo not over 1120 N550SD"}
+{"gold_label": "1", "sentence1": "B-FGHI unable clearance into RVSM airspace maintain 8400 meters", "sentence2": "Unable maintaining 8400 meters C-GNDK"}
+{"gold_label": "1", "sentence1": "EVA707 turn left heading 090 report runway in sight expect visual approach Runway 19", "sentence2": "Roger turn right heading 330 Runway 7 expect visual approach and report when runway in sight CHH7702"}
+{"gold_label": "1", "sentence1": "CES5121 vectoring for ILS approach Runway 36R QNH 1007", "sentence2": "Roger ILS approach Runway 36L standard UAL7429"}
+{"gold_label": "0", "sentence1": "\u56fd\u6cf0 200 \u5141\u8bb8 \u63a8\u51fa \u5e94\u7b54 \u673a \u7f16\u7801 2357", "sentence2": "\u5141\u8bb8 \u63a8\u51fa \u5e94\u7b54 \u673a \u7f16\u7801 2357 \u56fd\u6cf0 200"}
+{"gold_label": "1", "sentence1": "AFR116 after EPGAM proceed offset 2 miles right of A593", "sentence2": "Proceed offset 3 miles left of A593 after RVSM AFR116"}
+{"gold_label": "1", "sentence1": "UAL889 climb to 7500 meters correction climb to 7800 meters", "sentence2": "Roger climb to 7500 meters UAL889"}
+{"gold_label": "1", "sentence1": "CDG1152 taxi to holding point Runway 34 via Taxiways A A7 Y and Z1", "sentence2": "Taxi to holding point Runway 38 via A and Z1 CSC8825"}
+{"gold_label": "1", "sentence1": "THY021 hold position cancel take off I say again cancel take off vehicle crossing the runway", "sentence2": "take off THY021"}
+{"gold_label": "1", "sentence1": "JALS020 wind calm Runway 18 cleared for take off", "sentence2": "wind calm Runway 18 cancel take off JALS020"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 123 \u6d66\u4e1c \u5730\u9762 \u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u5317", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u5317 \u6d66\u4e1c \u5730\u9762 \u4e1c\u65b9 123"}
+{"gold_label": "1", "sentence1": "CAL545 make one orbit right due traffic on the runway", "sentence2": "Make one orbit left AMU866"}
+{"gold_label": "1", "sentence1": "YV-BRL climb to 8000 meters correction climb to 6300 meters", "sentence2": "Roger climb to 8000 meters Mexicana465"}
+{"gold_label": "1", "sentence1": "KLM898 climb to 7500 meters correction climb to 7800 meters", "sentence2": "Roger climb to 7500 meters"}
+{"gold_label": "1", "sentence1": "D-TV climb to 8000 meters correction climb to 7800 meters", "sentence2": "Climb to 8000 meters D-TV"}
+{"gold_label": "1", "sentence1": "Dongfang Approach CXA8102 airborne at 28 leaving 90 meters climbing to 900 meters good morning", "sentence2": "Airborne at 28 descend to 90 meters good morning Binhai Approach CXA8102"}
+{"gold_label": "1", "sentence1": "QR-OPS contact Echo Control on 118.8 good day", "sentence2": "Dongfang Control on 128.5 good day QR-OPS"}
+{"gold_label": "1", "sentence1": "Dongfang Departure UAL971", "sentence2": "UAL971 San Francisco Departure"}
+{"gold_label": "1", "sentence1": "AL4372 Shanghai Departure confirm squank 4372", "sentence2": "Affirm squank 4082 AL4372 Binhai Departure"}
+{"gold_label": "1", "sentence1": "A-BCDE cleared for take off runway 36 wind 340 2 meter per second", "sentence2": "Cancel for take off runway 36L A-BCDE"}
+{"gold_label": "1", "sentence1": "CCA1331 hold position cancel take off I say again cancel take off due vehicle on the runway", "sentence2": "take off immediately KLM898"}
+{"gold_label": "1", "sentence1": "JAL404 continue climb to FL 180 after passing FL 150 set heading to Alpha", "sentence2": "heading to Alpha climb to FL 180 JAL404"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 5217 \u4e0a\u5347 \u6807 \u538b 3600 \u7c73 \u4fdd\u6301", "sentence2": "\u4e0a\u5347 \u6807 \u538b 3600 \u7c73 \u4fdd\u6301 \u4e1c\u65b9 5217"}
+{"gold_label": "1", "sentence1": "G-LF cleared to Guangzhou via flight planned route GOL01 Departure initial climb to 900 meters on QNH 997", "sentence2": "Cleared to Beijing via flight planned route ATIS Departure initial climb to 900 meters on QNH 997 5Y-CCE"}
+{"gold_label": "1", "sentence1": "Viasa898 taxi via taxiways M and Z Taxi with caution marked trench right side of taxiway at holding point entering apron from taxiway", "sentence2": "Taxi via taxiways w caution marked left of taxiway at holding point Give way to Boeing707 entering apron from runway Viasa898"}
+{"gold_label": "1", "sentence1": "Shanghai control Viasa898 leaving 7800 meters descending to 7200 meters", "sentence2": "Viasa898 Beijing control hold 7800 meters"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3199 \u4e0b\u964d \u6807 \u538b 3600 \u7c73 \u4fdd\u6301", "sentence2": "\u4e0b\u964d \u6807 \u538b 3600 \u7c73 \u4fdd\u6301 \u5357\u65b9 3199"}
+{"gold_label": "1", "sentence1": "BAW039 Make a long approach", "sentence2": "Make a normal approach BAW039"}
+{"gold_label": "1", "sentence1": "GCR6529 check again on short final", "sentence2": "check short final TW410"}
+{"gold_label": "1", "sentence1": "CPA903 climb to 5000 meters disregard maintain present level", "sentence2": "climb to 5000 meters SWR197"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7708 \u4fdd\u6301 6100 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 6100 \u6d77\u5357 7708"}
+{"gold_label": "1", "sentence1": "LKE1912 Dongfang Tower taxi to holding point Runway 18L via Taxiway H3 A6 and B hold short of Runway 18L", "sentence2": "taxi to Runway 22 via Taxiway H3 A6 and B hold short of Runway 22 GDC7128"}
+{"gold_label": "1", "sentence1": "G-ABCD cleared to join right down wind leg for R/W03", "sentence2": "Cleared to join left down wind leg for L/W03 CSN3170"}
+{"gold_label": "1", "sentence1": "GCR6529 inbound track heading 09 degrees from FO for one minutes", "sentence2": "Outbound track heading 239 degrees from A1 for two minutes CSN3170"}
+{"gold_label": "1", "sentence1": "CCA331 Cleared to Beijing via flight planned route ALF02 Departure", "sentence2": "Cleared to Shanghai via flight planned route ALF02 Departure CCA1331"}
+{"gold_label": "1", "sentence1": "PQ-RST initial climb to 2600 meters on QNH 1010 maintain 6500 meters on standard squawk 3475", "sentence2": "initial climb to 800 meters on QNH 1011 maintain 9500 meters on standard squawk 3470 PQ-RST"}
+{"gold_label": "1", "sentence1": "UV-WXY initial climb to 600 meters on QNH 1012 maintain 6500 meters on standard squawk 3475", "sentence2": "initial climb to 2800 meters on QNH 4011 maintain 9500 meters on standard squawk 3470 UV-WXY"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7708 \u4e1c\u65b9 \u79bb\u573a \u96f7\u8fbe \u770b \u5230 \u4e86 \u5305\u5934 01 \u53f7 \u79bb\u573a \u7ee7\u7eed \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 2700 \u7c73 \u4fee\u6b63 \u6d77\u538b 998", "sentence2": "01 \u53f7 \u79bb\u573a \u4e0a\u5347 2700 998"}
+{"gold_label": "2", "sentence1": "CHH 345 \u56e0\u4e3a \u6392\u5e8f \u53f3\u8f6c 260 \u5ea6", "sentence2": "260 345"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 9811 \u4e3a \u4e86 \u8bc6\u522b \u5de6\u8f6c \u822a\u5411 110", "sentence2": "\u822a\u5411 110 9811"}
+{"gold_label": "2", "sentence1": "\u4e0a\u822a 4929 \u4e3a \u4e86 \u8bc6\u522b \u5de6\u8f6c \u822a\u5411 290", "sentence2": "\u5de6\u8f6c \u822a\u5411 290 4929"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u4e3a \u4e86 \u8bc6\u522b \u5de6\u8f6c \u822a\u5411 110", "sentence2": "\u822a\u5411 110 2778"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u4e3a \u4e86 \u8bc6\u522b \u5de6\u8f6c \u822a\u5411 110", "sentence2": "\u822a\u5411 110 1147"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 9811 \u4e3a \u4e86 \u8bc6\u522b \u5de6\u8f6c \u822a\u5411 110", "sentence2": "110 9811"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 6966 \u539f\u5730 \u7b49\u5f85 \u53d6\u6d88 \u8d77\u98de \u6307\u4ee4", "sentence2": "\u7b49\u5f85 6966"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 969 \u539f\u5730 \u7b49\u5f85 \u53d6\u6d88 \u8d77\u98de \u6307\u4ee4", "sentence2": "\u7b49\u5f85 969"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 3101 \u539f\u5730 \u7b49\u5f85 \u53d6\u6d88 \u8d77\u98de \u6307\u4ee4", "sentence2": "\u7b49\u5f85 3101"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 0003 \u505c\u673a\u4f4d \u5eca\u6865 01 \u505c\u673a \u5230\u4f4d \u62a5", "sentence2": "\u505c\u673a\u4f4d \u5eca\u6865 01 \u505c\u673a \u5230\u4f4d \u62a5 \u56fd\u822a 0003"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u5730\u9762 \u98ce 360 \u5ea6 4 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 09 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "09 \u53ef\u4ee5 \u8d77\u98de 1147"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u5730\u9762 \u98ce 360 \u5ea6 4 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 09 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "09 \u8d77\u98de 2778"}
+{"gold_label": "2", "sentence1": "\u6625\u79cb 8910 \u4fdd\u6301 6100 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 6100 8910"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u79bb\u573a \u8dd1\u9053 32 \u5730\u9762 \u98ce 290 \u5ea6 4 \u8282 \u4fee\u6b63 \u6d77\u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 32 1022 351"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9672 \u79bb\u573a \u8dd1\u9053 32 \u5730\u9762 \u98ce 290 \u5ea6 4 \u8282 \u4fee\u6b63 \u6d77\u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 32 1022 9672"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7280 \u79bb\u573a \u8dd1\u9053 32 \u5730\u9762 \u98ce 290 \u5ea6 4 \u8282 \u4fee\u6b63 \u6d77\u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 32 1022 7280"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u6d66\u4e1c \u5730\u9762 \u5728 118 . 17 \u4e0a \u6536\u542c \u901a\u64ad", "sentence2": "11817 1147"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u6d66\u4e1c \u5730\u9762 \u5728 118 . 3 \u4e0a \u6536\u542c \u901a\u64ad", "sentence2": "1183 2778"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7708 \u6d66\u4e1c \u5730\u9762 \u5728 127 . 85 \u4e0a \u6536\u542c \u901a\u64ad", "sentence2": "12785 7708"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4104 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 16 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u8dd1\u9053 16 \u5de6 \u53ef\u4ee5 \u8d77\u98de \u56fd\u822a 4104"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u5c06 \u4f60 \u7684 \u547c\u53f7 \u6539\u4e3a B 2456", "sentence2": "\u547c\u53f7 \u6539\u4e3a 2456 2778"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 1324 \u4fdd\u6301 5400 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5400"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u5c06 \u4f60 \u7684 \u547c\u53f7 \u6539\u4e3a B 2456", "sentence2": "\u547c\u53f7 \u6539\u4e3a B 2456 1147"}
+{"gold_label": "2", "sentence1": "\u4e0a\u822a 4929 \u901a\u8fc7 1300 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 060", "sentence2": "\u53f3\u8f6c \u822a\u5411 060 4929"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 9811 \u901a\u8fc7 1300 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 060", "sentence2": "1300 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 060"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9897 \u901a\u8fc7 1300 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 060", "sentence2": "1300 \u7c73 \u540e \u53f3\u8f6c \u822a\u5411 060"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u6ed1 \u5230 18 \u53f7 \u8dd1\u9053", "sentence2": "\u6ed1 \u5230 18 \u53f7 \u8dd1\u9053 CSN 3102"}
+{"gold_label": "2", "sentence1": "\u6625\u79cb 8910 \u4f60\u597d 21 \u53f3 \u8dd1\u9053 \u5916 \u7b49\u5f85", "sentence2": "21 \u8dd1\u9053 \u5916 \u7b49\u5f85 8910"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7782 \u4fdd\u6301 5600 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5600"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7708 \u5730\u9762 \u6e29\u5ea6 7 \u5ea6 \u53ef\u4ee5 \u63a8\u51fa \u8dd1\u9053 27 \u5de6 \u4fee \u538b 1013", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa 1013 7708"}
+{"gold_label": "2", "sentence1": "\u4e0a\u822a 4929 \u8fd1 \u5730 \u544a\u8b66 \u4e0a \u5230 \u4fee \u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 1013", "sentence2": "\u4e0a\u5347 \u4fee\u6b63 \u6d77\u538b 900 1013 4929"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u5230\u8fbe ALPHA \u65f6 \u62a5\u544a", "sentence2": "\u5230\u8fbe ALPHA \u65f6 \u62a5\u544a CSN 3102"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 4104 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 07 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "07 \u5de6 \u53ef\u4ee5 \u8d77\u98de 4104"}
+{"gold_label": "2", "sentence1": "\u4e1c\u65b9 123 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 17 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "17 \u5de6 \u53ef\u4ee5 \u8d77\u98de"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4118 \u8fdb \u8dd1\u9053 09 \u7b49\u5f85", "sentence2": "\u8fdb \u8dd1\u9053 \u8dd1\u9053 09 \u56fd\u822a 4118"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4104 \u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f \u56fd\u822a 4104"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 9811 \u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 3", "sentence2": "\u9ad8\u5ea6\u5c42 9800 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u8054\u7cfb \u8fdb\u8fd1 123 3 9811"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9897 \u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 3", "sentence2": "9800 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u8054\u7cfb \u8fdb\u8fd1 123 3 9897"}
+{"gold_label": "2", "sentence1": "QTR 895 \u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u7c73 \u4f7f\u7528 \u8dd1\u9053 26 \u5e94\u7b54 \u673a 6312 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 13", "sentence2": "\u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u8dd1\u9053 26 \u5e94\u7b54 \u673a 6312 \u8054\u7cfb \u8fdb\u8fd1 123 13 8950"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u8d77\u59cb \u9ad8\u5ea6 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 998 ECH 12D \u79bb\u573a", "sentence2": "\u8d77\u59cb \u9ad8\u5ea6 900 998 ECH 12D \u79bb\u573a \u5357\u822a 351"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 4118 \u5e7f\u5dde 133 . 25 \u518d\u89c1", "sentence2": "133 25 4118"}
+{"gold_label": "2", "sentence1": "CA 982 \u7acb\u5373 \u4e0b\u964d \u5230 6000 \u7c73", "sentence2": "\u7acb\u5373 \u4e0b\u964d 6000 CA 982"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7708 \u4fdd\u6301 5400 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5400 \u6d77\u5357 7708"}
+{"gold_label": "2", "sentence1": "CA 982 \u901a\u8fc7 \u5927\u738b \u5e84 150 \u5ea6 \u5f84\u5411 \u7ebf \u62a5\u544a", "sentence2": "\u5927\u738b \u5e84 150 \u5ea6 \u5f84\u5411 \u7ebf \u62a5\u544a"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9897 \u8054\u7cfb \u5e7f\u5dde 135 . 35 \u518d\u89c1", "sentence2": "135 35 9897"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 304 02 \u5de6 \u53ef\u4ee5 \u843d\u5730", "sentence2": "02 \u5de6 \u53ef\u4ee5 \u843d\u5730"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 3449 \u8fdb \u8dd1\u9053 06 \u5de6", "sentence2": "\u8fdb \u8dd1\u9053 06 3449"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 1301 \u8fdb\u8fd1 07 \u53f3", "sentence2": "\u8fd1 07 \u56fd\u822a 1301"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 3346 02 \u5de6 \u8d77\u98de", "sentence2": "02 \u5de6 \u8d77\u98de"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 3922 \u8fdb\u8fd1 25 \u53f3", "sentence2": "\u8fdb\u8fd1 25 \u53f3"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3346 \u542f\u53d1 26 \u53f3", "sentence2": "\u542f\u53d1 26 \u53f3 \u5357\u65b9 3346"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 6885 02 \u5de6 \u53ef\u4ee5 \u843d\u5730", "sentence2": "02 \u5de6 \u53ef\u4ee5 \u843d\u5730"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 359 02 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u53ef\u4ee5 \u8d77\u98de 3590"}
+{"gold_label": "2", "sentence1": "\u5357\u65b9 3512 \u8054\u7cfb \u5730\u9762 121 . 85 \u518d\u89c1", "sentence2": "121 85 3512"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9897 \u8fdb \u8dd1\u9053 \u7acb\u5373 \u8d77\u98de \u5426\u5219 \u5728 \u8dd1\u9053 \u5916 \u7b49\u5f85", "sentence2": "\u5728 \u8dd1\u9053 \u5916 \u7b49\u5f85"}
+{"gold_label": "2", "sentence1": "CA 982 \u4e0b\u964d \u5230 2400 \u7c73 \u9884\u671f ILS \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 \u573a \u538b 1021", "sentence2": "\u4e0b\u964d 2400 \u9884\u671f ILS \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 982"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7280 \u4fdd\u6301 6500 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 6500"}
+{"gold_label": "2", "sentence1": "CES - 747 \u5de6\u8f6c A \u7ee7\u7eed \u6ed1\u884c \u8dd1\u9053 21 \u7b49\u5f85\u70b9 \u7b49\u5f85", "sentence2": "\u5de6\u8f6c A \u7ee7\u7eed \u6ed1\u884c \u8dd1\u9053 21 \u7b49\u5f85\u70b9 \u7b49\u5f85"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9672 02 \u53f3 \u8dd1\u9053 \u5916 \u7b49", "sentence2": "02 \u8dd1\u9053 \u5916 \u7b49 9672"}
+{"gold_label": "2", "sentence1": "CES - 747 \u6606\u660e \u533a\u8c03 \u96f7\u8fbe \u5df2 \u8bc6\u522b \u7ee7\u7eed \u4e0a\u5347 \u9ad8\u5ea6 8900 \u4fdd\u6301", "sentence2": "\u4e0a\u5347 8900 CES - 747"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u6606\u660e \u533a\u8c03 \u96f7\u8fbe \u5df2 \u8bc6\u522b \u7ee7\u7eed \u4e0a\u5347 \u9ad8\u5ea6 8900 \u4fdd\u6301", "sentence2": "\u7ee7\u7eed \u4e0a\u5347 8900 2778"}
+{"gold_label": "2", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 CSN 3102 \u91cd\u578b \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u91cd\u578b \u8bf7\u6c42 \u6ed1\u884c \u4e1c\u65b9 \u5854\u53f0"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 3101 \u8054\u7cfb \u4e0a\u6d77 132 . 45 \u518d\u89c1", "sentence2": "132 . 45 \u518d\u89c1 3101"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 0003 \u6d77\u53e3 \u5730\u9762 \u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 0003 \u5ef6 \u6ed1\u884c\u9053 J A \u8dd1\u9053 09", "sentence2": "\u5ef6 \u6ed1\u884c\u9053 J A \u8dd1\u9053 09 0003"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 0003 E \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 09 \u8d77\u98de \u53ef\u7528 \u957f\u5ea6 3600 \u7c73", "sentence2": "E \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 09 \u8d77\u98de 0003"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u7ee7\u7eed \u8fdb\u8fd1 \u96f7\u8fbe \u670d\u52a1 \u7ec8\u6b62 \u8054\u7cfb \u5854\u53f0 118 . 15 \u518d\u89c1", "sentence2": "\u7ee7\u7eed \u8fdb\u8fd1 \u96f7\u8fbe \u670d\u52a1 \u7ec8\u6b62 \u8054\u7cfb \u5854\u53f0 118 15 2778"}
+{"gold_label": "2", "sentence1": "\u767d\u9e6d 8412 \u5730\u9762 \u98ce 330 06 \u7c73 \u8dd1\u9053 26 \u53ef\u4ee5 \u843d\u5730", "sentence2": "26 \u53ef\u4ee5 \u843d\u5730 8412"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 8232 \u5728 Charlie \u7a7f\u8d8a B 341 \u822a\u8def \u9ad8\u5ea6 8900 \u7c73", "sentence2": "\u5728 Charlie \u7a7f\u8d8a B 341 \u822a\u8def \u9ad8\u5ea6 8900"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u8054\u7cfb \u4e0a\u6d77 128 . 1 \u518d\u89c1", "sentence2": "128 1 \u518d\u89c1"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 9811 \u4fdd\u6301 5600 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5600"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 7280 \u4fdd\u6301 5600 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5600"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9672 \u5e7f\u5dde \u96f7\u8fbe \u770b\u5230 \u4e86 \u53f3\u4fa7 \u95f4\u8ddd 5 \u6d77\u91cc", "sentence2": "5 \u6d77\u91cc \u6df1\u5733 9672"}
+{"gold_label": "2", "sentence1": "\u4e0a\u822a 4929 21 \u5de6 \u8dd1\u9053 \u5916 \u7b49", "sentence2": "21 \u5de6 \u8dd1\u9053 \u5916 \u7b49 4929"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u5e7f\u5dde \u96f7\u8fbe \u770b\u5230 \u4e86 \u53f3\u4fa7 \u95f4\u8ddd 3 \u6d77\u91cc", "sentence2": "\u53f3\u4fa7 \u95f4\u8ddd 3 \u6d77\u91cc 351"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u5e7f\u5dde 133 . 25 \u518d\u89c1", "sentence2": "133 25 351"}
+{"gold_label": "2", "sentence1": "\u6df1\u5733 9897 09 \u5de6 \u8dd1\u9053 \u5916 \u7b49", "sentence2": "09 \u8dd1\u9053 \u5916 \u7b49 9897"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 3101 \u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 \u5730\u9762 \u98ce 190 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee\u6b63 \u6d77\u538b 1001", "sentence2": "\u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 1001 31010"}
+{"gold_label": "2", "sentence1": "\u4e0a\u822a 4929 \u52a0\u5165 \u4e09\u8fb9 \u8dd1\u9053 24 \u5730\u9762 \u98ce 270 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee\u6b63 \u6d77\u538b 1012", "sentence2": "\u52a0\u5165 \u4e09\u8fb9 \u8dd1\u9053 24 4929"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u8dd1\u9053 26 \u5730\u9762 \u98ce 270 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee\u6b63 \u6d77\u538b 1012", "sentence2": "\u8dd1\u9053 26 1012 351"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4118 \u6d77\u53e3 \u5730\u9762 \u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f", "sentence2": "\u53ef\u4ee5 \u63a8\u51fa \u5f00\u8f66 \u673a\u5934 \u671d \u897f \u56fd\u822a 4118"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1147 \u6d66\u4e1c \u5730\u9762 \u5728 128 . 1 \u4e0a \u5b88\u542c \u901a\u64ad", "sentence2": "128 1 1147"}
+{"gold_label": "2", "sentence1": "\u5357\u822a 351 \u4e1c\u65b9 \u79bb\u573a \u96f7\u8fbe \u770b \u5230 \u4e86 \u5305\u5934 02 \u53f7 \u79bb\u573a \u7ee7\u7eed \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 2700 \u7c73 \u4fee\u6b63 \u6d77\u538b 998", "sentence2": "02 \u53f7 \u79bb\u573a \u4e0a\u5347 2700 998 351"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 2778 \u4e1c\u65b9 \u79bb\u573a \u96f7\u8fbe \u770b \u5230 \u4e86 \u5305\u5934 08 \u53f7 \u79bb\u573a \u7ee7\u7eed \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 2700 \u7c73 \u4fee\u6b63 \u6d77\u538b 998", "sentence2": "08 \u53f7 \u79bb\u573a \u4e0a\u5347 2700 \u7c73 998 2778"}
+{"gold_label": "2", "sentence1": "AFR265 unknow traffic 3 o'clock10 kilometers opposite direction fast moving report traffic in sight", "sentence2": "in sight"}
+{"gold_label": "2", "sentence1": "DLH457 unknow traffic 6 o'clock8 kilometers opposite direction fast moving report traffic in sight", "sentence2": "DLH457 roger"}
+{"gold_label": "2", "sentence1": "CSN6263 unknow traffic 1 o'clock 8 kilometers oppsite direction fast moving report traffic in sight", "sentence2": "Looking out6 263"}
+{"gold_label": "2", "sentence1": "AAL126 unknow traffic 1 o'clock12 miles crossing left to rightfast moving report traffic in sight", "sentence2": "request vectors"}
+{"gold_label": "2", "sentence1": "CSC2125 unknow traffic 7 o'clock9 miles crossing left to rightfast moving report traffic in sight", "sentence2": "CSC request vectors"}
+{"gold_label": "2", "sentence1": "ALL138 report level", "sentence2": "Maintaining 7200 meters"}
+{"gold_label": "2", "sentence1": "CHH7873 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 3 \u70b9\u949f \u65b9\u4f4d 20 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "\u6b63\u5728 \u89c2\u5bdf"}
+{"gold_label": "2", "sentence1": "AFL108 report speed", "sentence2": "speed 320 knots"}
+{"gold_label": "2", "sentence1": "GCR6529 conffirm squawk 3644", "sentence2": "3644"}
+{"gold_label": "2", "sentence1": "AAL126 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 3 \u70b9\u949f \u65b9\u4f4d 20 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "\u6b63\u5728 \u89c2\u5bdf"}
+{"gold_label": "2", "sentence1": "CPA647 report returning to clearance", "sentence2": "CPA647 returning"}
+{"gold_label": "2", "sentence1": "CSN6723 TCAS RA report returning to clearance", "sentence2": "returning"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7280 \u8054\u7cfb \u5e7f\u5dde 135 . 35 \u518d\u89c1", "sentence2": "135 . 35 \u6d77\u5357 7280"}
+{"gold_label": "2", "sentence1": "UPS2921 contact Dongfang Control 1275", "sentence2": "12752921"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4108 \u8054\u7cfb \u4e09\u4e9a 130 . 2 \u518d\u89c1", "sentence2": "\u8054\u7cfb \u4e09\u4e9a 130 . 2 \u518d\u89c1 \u56fd\u822a 4108"}
+{"gold_label": "2", "sentence1": "AIC349 report leaving 6500 meters", "sentence2": "349 leaving"}
+{"gold_label": "2", "sentence1": "CCA1730 report leaving 6800 meters", "sentence2": "1730 leaving 6800"}
+{"gold_label": "2", "sentence1": "\u6625\u79cb 8814 \u62a5\u544a \u8ddd \u82b1\u57a3 DME \u7684 \u8ddd\u79bb", "sentence2": "50"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 1901 \u8ddd \u82b1\u57a3 30 \u516c\u91cc \u62a5\u544a", "sentence2": "30 \u516c\u91cc"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 1368 \u8ddd \u82b1\u57a3 15 \u516c\u91cc \u62a5\u544a", "sentence2": "\u8ddd \u82b1\u57a3 15"}
+{"gold_label": "2", "sentence1": "\u987a\u4e30 645 \u8ddd \u9b4f\u53bf 30 \u516c\u91cc \u62a5\u544a", "sentence2": "30 \u516c\u91cc \u987a\u4e30 645"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1645 \u8ddd\u7984\u53e3 30 \u516c\u91cc \u62a5\u544a", "sentence2": "\u8ddd\u7984\u53e3 30 \u5409\u7965"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1259 \u8bc1\u5b9e P6 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "P6 \u8fdb \u8dd1\u9053 \u8d77\u98de \u53ef\u4ee5"}
+{"gold_label": "2", "sentence1": "\u6625\u79cb 8613 \u8bc1\u5b9e P2 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "P2 \u53ef\u4ee5 \u6625\u79cb 8613"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 1102 \u8bc1\u5b9e P6 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "\u53ef\u4ee5 \u5409\u7965 1102"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4106 \u524d\u65b9 10 \u6d77\u91cc \u7a7a\u5ba2 320 \u4f4e \u9ad8\u5ea6", "sentence2": "\u524d\u65b9 10 \u6d77\u91cc \u7a7a\u5ba2 320 \u4f4e \u9ad8\u5ea6 \u56fd\u822a 4106"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 6240 \u505c\u673a\u4f4d A1 \u5230\u4f4d \u62a5", "sentence2": "6240 \u505c\u673a\u4f4d A1 \u5230\u4f4d \u4e86"}
+{"gold_label": "2", "sentence1": "CHH7873 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 10 \u70b9\u949f \u65b9\u4f4d 15 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "7873 \u6ca1\u6709 \u8bf7\u6c42 \u5f15\u5bfc"}
+{"gold_label": "2", "sentence1": "\u6606\u660e \u653e\u884c \u56db\u5ddd 4612 \u505c\u673a\u4f4d B3 \u53bb \u6c5f\u5317 \u7533\u8bf7 \u653e\u884c", "sentence2": "\u56db\u5ddd 4612 \u53ef\u4ee5 \u98de\u884c"}
+{"gold_label": "2", "sentence1": "\u56db\u5ddd 4216 \u4e0a\u6d77 \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u56db\u5ddd 4216 \u4e0d\u662f"}
+{"gold_label": "2", "sentence1": "\u897f\u85cf 4092 \u5317\u4eac \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u4e0d\u662f RVSM"}
+{"gold_label": "2", "sentence1": "\u6d77\u5357 4588 17L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "\u6d77\u5357 4588 \u53ef\u4ee5 \u7a7f\u8d8a"}
+{"gold_label": "2", "sentence1": "\u6625\u79cb 6683 12L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "6683 \u53ef\u4ee5 \u7a7f\u8d8a"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 1023 \u53f3\u8f6c A \u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u5417", "sentence2": "\u76ee\u89c6 \u4e86 \u56fd\u822a"}
+{"gold_label": "2", "sentence1": "\u5965\u51ef 3342 \u5de6\u8f6c B \u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u5417", "sentence2": "\u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4106 \u4e0b\u964d\u7387 \u4e0d \u5c0f\u4e8e 1800", "sentence2": "\u4e0b\u964d\u7387 \u4e0d \u5c0f\u4e8e 1800 \u56fd\u822a 4106"}
+{"gold_label": "2", "sentence1": "\u5317\u4eac \u533a\u57df \u6625\u79cb 8510 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a A1", "sentence2": "\u6625\u79cb 8510 \u7a7f\u8d8a A1"}
+{"gold_label": "2", "sentence1": "\u5317\u4eac \u533a\u57df \u6625\u79cb 8884 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a A2", "sentence2": "\u7a7f\u8d8a A2 \u9ad8\u5ea6 5000 \u7c73"}
+{"gold_label": "2", "sentence1": "\u4e0a\u6d77 \u533a\u57df \u5409\u7965 4683 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a A3", "sentence2": "\u53ef\u4ee5 \u7a7f\u8d8a A3 \u9ad8\u5ea6 5500 \u7c73"}
+{"gold_label": "2", "sentence1": "\u5317\u4eac \u533a\u57df \u6df1\u5733 3337 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a B1", "sentence2": "\u6df1\u5733 3337 \u7a7f\u8d8a B1"}
+{"gold_label": "2", "sentence1": "PAL853 report distance form NJL DME", "sentence2": "50 kilometers form NJL DME"}
+{"gold_label": "2", "sentence1": "AAL138 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "\u4fdd\u6301 3000 \u7c73"}
+{"gold_label": "2", "sentence1": "THA615 report 25 kilomerters form HYN DME", "sentence2": "25 form HYN DME 615"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 0003 \u7ee7\u7eed \u4e0b \u4fee \u538b 1200 \u4fdd\u6301 \u4fee \u538b 1008", "sentence2": "\u7ee7\u7eed \u4e0b \u4fee \u538b 1200 \u4fdd\u6301 \u4fee\u6b63 \u6d77\u538b 1008 \u56fd\u822a 0003"}
+{"gold_label": "2", "sentence1": "AMU007 confirm you can line up runway 12R by P6 and make a inter section takeoff", "sentence2": "affirmative"}
+{"gold_label": "2", "sentence1": "CCA1730 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "8100"}
+{"gold_label": "2", "sentence1": "CES488 gate A3 report when rady", "sentence2": "gate A3 flight plan submitted"}
+{"gold_label": "2", "sentence1": "CSS5655 gate C2 report when rady", "sentence2": "CSS5655 gate C2"}
+{"gold_label": "2", "sentence1": "kunming delivery KOR152 on gate B1 request clearance to hongqiao", "sentence2": "KOR152 cleared"}
+{"gold_label": "2", "sentence1": "kunming delivery CQH345 on gate C1 request clearance to hongqiao", "sentence2": "cleared to shanghai airport"}
+{"gold_label": "2", "sentence1": "TBA9815 dongfang control confirm RVSM approved", "sentence2": "negative RVSM"}
+{"gold_label": "2", "sentence1": "AFR1178 dongfang control confirm RVSM approved", "sentence2": "negative RVSM"}
+{"gold_label": "2", "sentence1": "EPA6218 dongfang control confirm RVSM approved", "sentence2": "EPA6218 negative"}
+{"gold_label": "2", "sentence1": "CSC9988 dongfang control confirm RVSM approved", "sentence2": "CSC9988 negative"}
+{"gold_label": "2", "sentence1": "CPA1173 shanghai control confirm RVSM approved", "sentence2": "shanghai control affirm"}
+{"gold_label": "2", "sentence1": "CSC8825 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "\u4fdd\u6301 3000"}
+{"gold_label": "2", "sentence1": "ACA033 shanghai control confirm RVSM approved", "sentence2": "ACA033 affirm RVSM"}
+{"gold_label": "2", "sentence1": "ANZ622 hold short of runway 15R request cross runway", "sentence2": "cross runway 15R"}
+{"gold_label": "2", "sentence1": "CES3312 turn left join B do you have the follow me car insight", "sentence2": "insight"}
+{"gold_label": "2", "sentence1": "THY021 turn left join C do you have the follow me car insight", "sentence2": "insight"}
+{"gold_label": "2", "sentence1": "beijing control CCA5653 request to cross B3 at DAL VOR", "sentence2": "CCA5653 cleared to cross"}
+{"gold_label": "2", "sentence1": "ACA105 \u62a5\u544a \u901f\u5ea6", "sentence2": "\u901f\u5ea6 250"}
+{"gold_label": "2", "sentence1": "AFL108 \u62a5\u544a \u901f\u5ea6", "sentence2": "AFL108"}
+{"gold_label": "2", "sentence1": "AAR3213 \u79bb\u5f00 7500 \u7c73 \u62a5\u544a", "sentence2": "\u79bb\u5f00 7500"}
+{"gold_label": "0", "sentence1": "\u4e0a\u822a 4929 \u524d\u65b9 \u9053\u53e3 \u5c3d\u5feb \u8131\u79bb \u8131\u79bb \u62a5", "sentence2": "\u524d\u65b9 \u9053\u53e3 \u5c3d\u5feb \u8131\u79bb \u8131\u79bb \u62a5 \u4e0a\u822a 4929"}
+{"gold_label": "2", "sentence1": "\u5409\u7965 9688 \u79bb\u5f00 3500 \u7c73 \u62a5\u544a", "sentence2": "\u79bb\u5f00 3500 \u7c73"}
+{"gold_label": "2", "sentence1": "\u56fd\u822a 1429 \u8fd4\u56de \u8bb8\u53ef \u9ad8\u5ea6 \u62a5\u544a", "sentence2": "\u8fd4\u56de \u9ad8\u5ea6 \u56fd\u822a 1429"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 8232 Charlie \u4ee5 \u5317 35 \u516c\u91cc \u9ad8\u5ea6 8900 \u7c73 \u7a7f\u8d8a B 341 \u822a\u8def", "sentence2": "Charlie \u4ee5 \u5317 35 \u516c\u91cc \u9ad8\u5ea6 8900 \u7c73 \u7a7f\u8d8a B 341 \u822a\u8def \u56fd\u822a 8232"}
+{"gold_label": "2", "sentence1": "CBJ5154 \u7a7f\u8d8a 18 \u53f7 \u8dd1\u9053 \u8131\u79bb \u62a5\u544a", "sentence2": "CBJ5154 \u8131\u79bb"}
+{"gold_label": "2", "sentence1": "CCA1901 \u7a7f\u8d8a 24 \u53f7 \u8dd1\u9053 \u8131\u79bb \u62a5\u544a", "sentence2": "1901 \u5df2 \u8131\u79bb"}
+{"gold_label": "2", "sentence1": "CSN6723 \u7a7f\u8d8a 28 \u53f7 \u8dd1\u9053 \u8131\u79bb \u62a5\u544a", "sentence2": "6723 \u5df2 \u8131\u79bb"}
+{"gold_label": "2", "sentence1": "CSC215 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 3 \u70b9\u949f \u65b9\u4f4d 12 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "CSC215 \u6536\u5230"}
+{"gold_label": "2", "sentence1": "AIC349 \u79bb\u5f00 6500 \u7c73 \u62a5\u544a", "sentence2": "\u79bb\u5f00 6500 \u7c73"}
+{"gold_label": "2", "sentence1": "AFR102 \u79bb\u5f00 7200 \u7c73 \u62a5\u544a", "sentence2": "AFR102 \u79bb\u5f00"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7280 \u5728 Charlie \u7a7f\u8d8a B 341 \u822a\u8def \u9ad8\u5ea6 8900 \u7c73", "sentence2": "\u5728 Charlie \u7a7f\u8d8a B 341 \u822a\u8def \u9ad8\u5ea6 8900 \u7c73 \u6d77\u5357 7280"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 3323 \u524d\u673a \u62a5\u544a \u6709\u4e94\u8fb9 \u98ce \u5207\u53d8", "sentence2": "\u4e86\u89e3 \u4e1c\u65b9 3323"}
+{"gold_label": "3", "sentence1": "\u6625\u79cb 6533 \u524d\u673a \u62a5\u544a \u6709\u4e94\u8fb9 \u98ce \u5207\u53d8", "sentence2": "\u597d \u6625\u79cb 6533"}
+{"gold_label": "3", "sentence1": "AFR265 unknow traffic 1 o'clock15 kilometers opposite direction fast moving report traffic in sight", "sentence2": "AFR265 see traffic"}
+{"gold_label": "3", "sentence1": "DLH457 unknow traffic 6 o'clock8 kilometers opposite direction fast moving report traffic in sight", "sentence2": "DLH457 rogersee the traffic"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 \u533a\u57df \u987a\u4e30 4302 \u8bf7\u6c42 \u8f6c\u6362 \u9891\u7387 1205", "sentence2": "\u987a\u4e30 4302 \u4e1c\u65b9 \u533a\u57df \u53ef\u4ee5 \u8c03\u8282"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 \u533a\u57df \u897f\u85cf 6295 \u8bf7\u6c42 \u8f6c\u6362 \u9891\u7387 1123", "sentence2": "\u897f\u85cf 6295 \u4e1c\u65b9 \u533a\u57df \u53ef\u4ee5 \u8c03\u8282"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 \u8fdb\u8fd1 \u6625\u79cb 3365 \u8bf7\u6c42 \u76f4\u7ebf VOR \u8fdb\u8fd1 \u8dd1\u9053 04", "sentence2": "\u6625\u79cb 3365 \u4e1c\u65b9 \u8fdb\u8fd1 \u6ca1 \u95ee\u9898"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u6625\u79cb 8847 \u8bf7\u6c42 \u76f4\u7ebf VOR \u8fdb\u8fd1 \u8dd1\u9053 04", "sentence2": "\u6625\u79cb 8847 \u5317\u4eac \u8fdb\u8fd1 \u540c\u610f"}
+{"gold_label": "3", "sentence1": "CSC8825 report level", "sentence2": "we are in 3000 meters CSC8825"}
+{"gold_label": "3", "sentence1": "\u6df1\u5733 \u5730\u9762 \u65e9\u4e0a\u597d \u56fd\u822a 4718 \u673a\u578b \u6ce2\u97f3 747 \u7533\u8bf7 \u4e00\u4e2a \u505c\u673a\u4f4d", "sentence2": "\u56fd\u822a 4718 \u5230 11 \u53f7 \u505c"}
+{"gold_label": "3", "sentence1": "\u6df1\u5733 \u5730\u9762 \u65e9\u4e0a\u597d \u56fd\u822a 151 \u673a\u578b \u6ce2\u97f3 737 \u7533\u8bf7 \u4e00\u4e2a \u505c\u673a\u4f4d", "sentence2": "\u56fd\u822a 151 \u5230 12 \u53f7 \u505c"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u5730\u9762 \u65e9\u4e0a\u597d \u4e1c\u65b9 5440 \u673a\u578b \u6ce2\u97f3 777 \u7533\u8bf7 \u4e00\u4e2a \u505c\u673a\u4f4d", "sentence2": "\u4e1c\u65b9 5440 \u5230 12 \u53f7 \u505c"}
+{"gold_label": "3", "sentence1": "\u8fdb\u8fd1 \u4e1c\u65b9 747 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u4e1c\u65b9 747 \u7ee7\u7eed \u4e0a \u81f3 5000"}
+{"gold_label": "3", "sentence1": "\u8fdb\u8fd1 \u6625\u79cb 8814 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u6625\u79cb 8814 \u7ee7\u7eed \u4e0a\u5230 4500"}
+{"gold_label": "3", "sentence1": "\u5965\u51ef 2693 \u8d85\u8d8a \u524d\u673a B737 \u62a5\u544a", "sentence2": "\u5965\u51ef 2693 \u8d85\u8fc7 \u4e86"}
+{"gold_label": "0", "sentence1": "CA 981 \u4e0b\u964d \u5230 3000 \u7c73 \u4fdd\u6301", "sentence2": "\u4e0b\u964d \u5230 3000 \u7c73 \u4fdd\u6301 CA 981"}
+{"gold_label": "3", "sentence1": "\u897f\u85cf 6238 \u8d85\u8d8a \u524d\u673a B737 \u62a5\u544a", "sentence2": "\u897f\u85cf 6238 \u8d85\u8fc7 \u4e86"}
+{"gold_label": "3", "sentence1": "\u5965\u51ef 2963 \u770b\u5230 \u4e94 \u8fb9\u4e0a \u7684 \u7a7a\u5ba2 \u62a5\u544a", "sentence2": "\u53ef\u4ee5 \u5965\u51ef 2963"}
+{"gold_label": "3", "sentence1": "CES5301 cross Runway 22 report vacated", "sentence2": "CES5301 has crossed runway 22"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8580 \u4fdd\u6301 2100 \u7c73", "sentence2": "\u4fdd\u6301 2100 \u7c73 \u6625\u79cb 8580"}
+{"gold_label": "3", "sentence1": "shanghai approach CQH8719 request fly heading 100 due to CB occured", "sentence2": "CQH8719 heading 100 ok"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 0003 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d \u5230 1500 \u7c73", "sentence2": "\u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b \u5230 1500 \u7c73 \u56fd\u822a 0003"}
+{"gold_label": "3", "sentence1": "shanghai approach TBA6287 request fly heading 110 due to CB occured", "sentence2": "TBA6287 heading 110 ok"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 4122 \u524d\u673a \u62a5\u544a \u6709\u4e94\u8fb9 \u98ce \u5207\u53d8", "sentence2": "\u4e86\u89e3 \u4e1c\u65b9 4122"}
+{"gold_label": "3", "sentence1": "\u5965\u51ef 1202 \u62a5\u544a \u8ddd\u7984\u53e3 DME \u7684 \u8ddd\u79bb", "sentence2": "\u6536\u5230 \u5965\u51ef 1202"}
+{"gold_label": "3", "sentence1": "CSC2125 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 10 \u70b9\u949f \u65b9\u4f4d 15 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "CSC2125 \u6ca1\u6709 \u627e\u5230 \u4f60 \u8bf4 \u7684 \u6d3b\u52a8"}
+{"gold_label": "3", "sentence1": "\u6d77\u5357 1368 \u8ddd \u82b1\u57a3 15 \u516c\u91cc \u62a5\u544a", "sentence2": "\u77e5\u9053 \u4e86 \u6d77\u5357 1368"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 5333 \u8bc1\u5b9e P5 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "\u6536\u5230 \u4e1c\u65b9 5333"}
+{"gold_label": "3", "sentence1": "CQH8947 report the airbus on final in sight", "sentence2": "we have see the airbus CQH8947"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 4456 \u505c\u673a\u4f4d A3 \u5230\u4f4d \u62a5", "sentence2": "\u5730\u9762 \u4e1c\u65b9 4456 \u77e5\u9053 \u4e86"}
+{"gold_label": "3", "sentence1": "\u5409\u7965 1201 \u505c\u673a\u4f4d A4 \u5230\u4f4d \u62a5", "sentence2": "\u5730\u9762 \u5409\u7965 1201 \u597d \u7684"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 2384 \u505c\u673a\u4f4d B1 \u5230\u4f4d \u62a5", "sentence2": "\u5730\u9762 \u4e1c\u65b9 2384 \u597d \u7684"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 304 \u8dd1\u5230 \u4f60 \u8981 \u8fdb\u8fd1 \u8dd1\u9053 21 \u5de6", "sentence2": "\u8fdb\u8fd1 \u8dd1\u9053 21 \u5de6 \u5357\u822a 304"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 4456 \u505c\u673a\u4f4d A1 \u5230\u4f4d \u62a5", "sentence2": "\u5730\u9762 \u4e1c\u65b9 4456 \u53ef\u4ee5 \u4e86"}
+{"gold_label": "3", "sentence1": "\u6606\u660e \u653e\u884c \u56fd\u822a 4130 \u505c\u673a\u4f4d B1 \u53bb \u6c5f\u5317 \u7533\u8bf7 \u653e\u884c", "sentence2": "\u56fd\u822a 4130 \u6309\u8ba1\u5212 \u98de\u884c"}
+{"gold_label": "0", "sentence1": "CHH 7625 \u4e0b\u964d \u5230 8100", "sentence2": "\u4e0b \u5230 8100 CHH 7625"}
+{"gold_label": "3", "sentence1": "\u897f\u85cf 3342 \u5317\u4eac \u533a\u57df \u8bc1\u5b9e \u662f\u5426 \u83b7\u51c6 RVSM \u8fd0\u884c", "sentence2": "\u5317\u4eac \u533a\u57df \u897f\u85cf 3342 \u4e86\u89e3"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5730\u9762 CA 981 \u505c\u673a\u4f4d 30 \u5f00\u8f66", "sentence2": "CA 981 \u505c\u673a\u4f4d 30 \u5f00\u8f66 \u5317\u4eac \u5730\u9762"}
+{"gold_label": "3", "sentence1": "\u56fd\u822a 50116L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "\u56fd\u822a 501 \u53ef\u4ee5 \u8fc7 \u8dd1\u9053 16L"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u533a\u57df \u6625\u79cb 8510 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a A1", "sentence2": "\u6625\u79cb 8510 \u597d \u7684 \u53ef\u4ee5 \u8fc7 A1"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u533a\u57df \u6df1\u5733 3337 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a B1", "sentence2": "\u6df1\u5733 3337 \u6ca1 \u95ee\u9898 \u5728 DAL VOR \u7a7f B1 \u9ad8\u5ea6 4300 \u7c73"}
+{"gold_label": "3", "sentence1": "CCA1246 report distance form NJL DME", "sentence2": "ok CCA1246"}
+{"gold_label": "3", "sentence1": "SIA805 report distance form WXL DME", "sentence2": "understand SIA805"}
+{"gold_label": "3", "sentence1": "CAL2812 report 22 kilomerters form WXI DME", "sentence2": "no problem CAL2812"}
+{"gold_label": "3", "sentence1": "CHH7265 confirm you can line up runway 16L by P4 and make a inter section takeoff", "sentence2": "received CHH7265"}
+{"gold_label": "0", "sentence1": "CA 981 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u53ef\u4ee5 \u8d77\u98de CA 981"}
+{"gold_label": "3", "sentence1": "CSS5655 gate C2 report when rady", "sentence2": "ground CSS5655 gate C2 we have no problem"}
+{"gold_label": "3", "sentence1": "kunming delivery YZR7986 on gate A4 request clearance to hongqiao", "sentence2": "YZR7986 you can fly to shanghai airport"}
+{"gold_label": "3", "sentence1": "kunming delivery KOR152 on gate B1 request clearance to hongqiao", "sentence2": "KOR152 you can fly to shanghai airport"}
+{"gold_label": "3", "sentence1": "kunming delivery KZR888 on gate C1 request clearance to hongqiao", "sentence2": "KZR888 allow you to fly to shanghai airport"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7782 \u4fdd\u6301 5400 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5400 \u6d77\u5357 7782"}
+{"gold_label": "3", "sentence1": "AAR3365 dongfang control confirm RVSM approved", "sentence2": "dongfang control AAR3365 no"}
+{"gold_label": "3", "sentence1": "CHH7265 shanghai control confirm RVSM approved", "sentence2": "shanghai control CHH7265 yes"}
+{"gold_label": "3", "sentence1": "KLM4302 hold short of runway 15L request cross runway", "sentence2": "KLM4302 you can cross runway 15L"}
+{"gold_label": "3", "sentence1": "ANZ080 hold short of runway 17R request cross runway", "sentence2": "ANA080 allow to cross runway 17R"}
+{"gold_label": "3", "sentence1": "ANZ622 hold short of runway 15R request cross runway", "sentence2": "ANA622 allow to cross runway 15R"}
+{"gold_label": "3", "sentence1": "AAL138 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "\u9a6c\u4e0a \u5230\u8fbe 4200 \u7c73 AAL138"}
+{"gold_label": "3", "sentence1": "CDG4670 turn left join B do you have the follow me car insight", "sentence2": "we have see the follow me car CDG4670"}
+{"gold_label": "3", "sentence1": "EVA712 turn left join B do you have the follow me car insight", "sentence2": "we have see the follow me car EVA712"}
+{"gold_label": "3", "sentence1": "ANA917 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "\u9a6c\u4e0a \u5230\u8fbe 3000 \u7c73 ANA917"}
+{"gold_label": "3", "sentence1": "beijing control CSZ9783 request to cross A3 at DAL VOR", "sentence2": "CSZ9783 you can cross A3 at DAL VOR at 4300 meters"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u56fd\u822a 3812 24 \u53f7\u6865 \u8bf7\u6c42 \u5f00\u8f66", "sentence2": "\u56fd\u822a 3812 \u4f60 \u53ef\u4ee5 \u5f00 \u4e86"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u5854\u53f0 \u6625\u79cb 18536 \u53f7\u4f4d \u8bf7\u6c42 \u53cd\u5411 \u6ed1\u884c", "sentence2": "\u6625\u79cb 185 \u5317\u4eac \u5854\u53f0 \u597d \u7684"}
+{"gold_label": "3", "sentence1": "\u6625\u79cb 8613 \u8fd4\u56de \u8bb8\u53ef \u9ad8\u5ea6 \u62a5\u544a", "sentence2": "\u56de\u5230 \u4e86 \u5141\u8bb8 \u7684 \u9ad8\u5ea6 \u6625\u79cb 8613"}
+{"gold_label": "3", "sentence1": "\u6625\u79cb 8994 \u8fd4\u56de \u8bb8\u53ef \u9ad8\u5ea6 \u62a5\u544a", "sentence2": "\u56de\u5230 \u4e86 \u5141\u8bb8 \u7684 \u9ad8\u5ea6 \u6625\u79cb 8994"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u5c71\u4e1c 658 \u8bf7\u6c42 \u822a\u5411 100", "sentence2": "\u5c71\u4e1c 658 \u5317\u4eac \u65b9\u5411 100 \u53ef\u4ee5"}
+{"gold_label": "3", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u6625\u79cb 8996 \u91cd\u578b \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u6625\u79cb 8996 \u53bb 16 \u53f7 \u8dd1\u9053"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u5c06 \u547c\u53f7 \u6682\u65f6 \u4fee\u6539 \u4e3a CSN 3102 A \u6709 \u98de\u673a \u6709 \u7c7b\u4f3c \u547c\u53f7", "sentence2": "\u5c06 \u547c\u53f7 \u6682\u65f6 \u4fee\u6539 \u4e3a CSN 3102 A \u6709 \u98de\u673a \u6709 \u7c7b\u4f3c \u547c\u53f7 CSN 3102"}
+{"gold_label": "3", "sentence1": "CPA6111 \u7a7f\u8d8a 22 \u53f7 \u8dd1\u9053 \u8131\u79bb \u62a5\u544a", "sentence2": "CPA6111 \u79bb\u5f00 \u4e86 \u8dd1\u9053"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u56fd\u822a 4138 \u8bf7\u6c42 \u822a\u5411 120", "sentence2": "\u56fd\u822a 4138 \u5317\u4eac \u65b9\u5411 120 \u6ca1 \u95ee\u9898"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u56db\u5ddd 4738 \u8bf7\u6c42 \u822a\u5411 100", "sentence2": "\u56db\u5ddd 4738 \u5317\u4eac \u65b9\u5411 100 \u6ca1 \u95ee\u9898"}
+{"gold_label": "3", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u897f\u85cf 6238 \u8bf7\u6c42 \u822a\u5411 110", "sentence2": "\u897f\u85cf 6238 \u5317\u4eac \u65b9\u5411 110 \u6ca1 \u95ee\u9898"}
+{"gold_label": "3", "sentence1": "\u4e0a\u6d77 \u8fdb\u8fd1 \u6625\u79cb 8847 \u8bf7\u6c42 \u822a\u5411 130", "sentence2": "\u6625\u79cb 8847 \u4e0a\u6d77 \u65b9\u5411 130 \u6ca1 \u95ee\u9898"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u539f\u5730 \u7b49\u5f85 \u53d6\u6d88 \u8d77\u98de", "sentence2": "\u539f\u5730 \u7b49\u5f85 \u53d6\u6d88 \u8d77\u98de CSN 3102"}
+{"gold_label": "0", "sentence1": "CSN 3102 \u4e0a\u5347 \u5230 8100", "sentence2": "\u4e0a\u5347 \u5230 8100 CSN 3102"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 9811 \u7ecf\u8fc7 A4 \u8fdb \u8dd1\u9053 11", "sentence2": "\u7ecf\u8fc7 A4 \u8fdb \u8dd1\u9053 11 \u897f\u85cf 9811"}
+{"gold_label": "0", "sentence1": "\u5409\u7965 1185 \u6062\u590d \u81ea\u4e3b \u822a\u5411 \u76f4\u98de \u5927\u738b\u5e84", "sentence2": "\u6062\u590d \u81ea\u4e3b \u822a\u5411 \u76f4\u98de \u5927\u738b\u5e84 \u5409\u7965 1185"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 9811 \u5de6\u8f6c \u822a\u5411 050", "sentence2": "\u5de6\u8f6c \u822a\u5411 050 \u897f\u85cf 9811"}
+{"gold_label": "0", "sentence1": "G - ABCD \u53ef\u4ee5 \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 360 \u5ea6 8 \u7c73 \u6bcf\u79d2", "sentence2": "\u53ef\u4ee5 \u8fdb\u8fd1 36 \u53f7 \u5de6 \u8dd1\u9053 360 \u5ea6 8 \u7c73 \u6bcf\u79d2 G - ABCD"}
+{"gold_label": "0", "sentence1": "CA 982 \u5317\u4eac \u8fdb\u8fd1 \u4e0b\u964d \u9ad8\u5ea6 900 \u7c73 \u573a \u538b 1015", "sentence2": "\u4e0b\u964d \u9ad8\u5ea6 900 \u7c73 \u573a \u538b 1015 \u5317\u4eac \u8fdb\u8fd1 CA 982"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 CA 982 \u5927\u738b\u5e84 15 \u9ad8\u5ea6 1500 \u7c73 \u6536\u5230 A \u901a\u64ad", "sentence2": "\u5927\u738b\u5e84 15 \u9ad8\u5ea6 1500 \u7c73 \u6536\u5230 A \u901a\u64ad \u5317\u4eac \u8fdb\u8fd1 CA 982"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8910 \u4fdd\u6301 5000 \u9884\u8ba1 \u8fc7 \u5927\u738b\u5e84 \u540e \u4e0b\u964d", "sentence2": "\u4fdd\u6301 5000 \u6625\u79cb 8910"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4333 \u53f3\u8f6c \u8131\u79bb \u540e \u6cbf \u52a8 \u8f66 \u5411\u5317 \u6ed1", "sentence2": "\u53f3\u8f6c \u8131\u79bb \u540e \u6cbf \u52a8 \u8f66 \u5411\u5317 \u6ed1 \u56fd\u822a 4333"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8910 \u8fdb \u8dd1\u9053 07 \u5de6", "sentence2": "\u8fdb \u8dd1\u9053 07 \u5de6 \u6625\u79cb 8910"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4104 \u8fdb \u8dd1\u9053 13 \u53f3", "sentence2": "\u8fdb \u8dd1\u9053 13 \u53f3 \u56fd\u822a 4104"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 304 02 \u5de6 \u53ef\u4ee5 \u843d\u5730", "sentence2": "02 \u5de6 \u53ef\u4ee5 \u843d\u5730 \u5357\u822a 304"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 319 \u5411\u897f \u6ed1 \u79bb 32175 \u518d\u89c1", "sentence2": "\u5411\u897f \u6ed1 \u79bb 32175 \u518d\u89c1 \u5357\u822a 319"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 3103 \u0251 5 \u8fdb \u8dd1\u9053 02 \u5de6", "sentence2": "\u0251 5 \u8fdb \u8dd1\u9053 02 \u5de6 \u5357\u822a 3103"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 304 \u53f3\u8f6c \u8131\u79bb \u5411\u5317 \u6ed1", "sentence2": "\u53f3\u8f6c \u8131\u79bb \u5411\u5317 \u6ed1 \u5357\u822a 304"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 351 \u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a \u5230 \u5de1\u822a \u9ad8\u5ea6 6000 \u518d\u89c1", "sentence2": "\u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a\u5347 \u5230 \u5de1\u822a \u9ad8\u5ea6 6000 \u5357\u822a 351"}
+{"gold_label": "0", "sentence1": "\u767d\u9e6d 8412 \u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 \u5730\u9762 \u98ce 190 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee\u6b63 \u6d77\u538b 1001", "sentence2": "\u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 \u4fee \u538b 1001 \u767d\u9e6d 8412"}
+{"gold_label": "0", "sentence1": "\u767d\u9e6d 8412 \u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 \u5730\u9762 \u98ce 190 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee\u6b63 \u6d77\u538b 1001", "sentence2": "\u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 16 \u4fee\u6b63 \u6d77\u538b 1001 \u767d\u9e6d 8412"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9672 \u79bb\u573a \u8dd1\u9053 32 \u5730\u9762 \u98ce 290 \u5ea6 4 \u8282 \u4fee\u6b63 \u6d77\u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 32 \u4fee \u538b 1022 \u6df1\u5733 9672"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4104 \u8fd1 \u5730 \u544a\u8b66 \u4e0a\u5347 \u5230 \u4fee\u6b63 \u6d77\u538b 900 \u7c73 \u4fee\u6b63 \u6d77\u538b 1010", "sentence2": "\u4e0a\u5347 \u5230 \u4fee \u538b 900 \u7c73 \u4fee \u538b 1010 \u56fd\u822a 4104"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4104 \u79bb\u573a \u8dd1\u9053 08 \u5730\u9762 \u98ce 290 \u5ea6 4 \u8282 \u4fee \u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 08 \u4fee \u538b 1022 \u56fd\u822a 4104"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4118 \u79bb\u573a \u8dd1\u9053 08 \u5730\u9762 \u98ce 190 \u5ea6 4 \u8282 \u4fee \u538b 1022", "sentence2": "\u79bb\u573a \u8dd1\u9053 08 \u4fee \u538b 1022 \u56fd\u822a 4118"}
+{"gold_label": "0", "sentence1": "\u6d77\u5357 7280 \u8054\u7cfb \u4e0a\u6d77 132 . 45 \u518d\u89c1", "sentence2": "132 . 45 \u518d\u89c1 \u6d77\u5357 7280"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4118 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 27 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u8dd1\u9053 27 \u5de6 \u53ef\u4ee5 \u8d77\u98de \u56fd\u822a 4118"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 9811 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 17 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u8dd1\u9053 17 \u5de6 \u53ef\u4ee5 \u8d77\u98de \u897f\u85cf 9811"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 6793 27 \u53f3 \u53ef\u4ee5 \u843d\u5730", "sentence2": "27 \u53f3 \u53ef\u4ee5 \u843d\u5730 \u5357\u65b9 6793"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8910 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 09 \u5de6 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u8dd1\u9053 09 \u5de6 \u53ef\u4ee5 \u8d77\u98de \u6625\u79cb 8910"}
+{"gold_label": "0", "sentence1": "CHH 7265 \u5728 \u77ed \u4e94\u8fb9 \u4e0a \u7684 \u7a7a\u5ba2 \u843d\u5730 \u540e \u8fdb \u8dd1\u9053", "sentence2": "\u5728 \u77ed \u4e94\u8fb9 \u4e0a \u7684 \u7a7a\u5ba2 \u843d\u5730 \u540e \u8fdb \u8dd1\u9053 CHH 7265"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9672 \u5730\u9762 \u98ce 050 03 \u7c73 \u6bcf\u79d2 \u8dd1\u9053 27 \u53f3 \u53ef\u4ee5 \u8d77\u98de", "sentence2": "\u8dd1\u9053 27 \u53f3 \u53ef\u4ee5 \u8d77\u98de \u6df1\u5733 9672"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9101 \u77ed \u4e94\u8fb9 \u98de\u673a \u843d\u5730 \u540e \u8fdb \u8dd1\u9053 36 \u53f7", "sentence2": "\u77ed \u4e94\u8fb9 \u98de\u673a \u843d\u5730 \u540e \u8fdb \u8dd1\u9053 36 \u53f7 \u6df1\u5733 9101"}
+{"gold_label": "0", "sentence1": "\u7965\u9e4f 9922 \u5de1\u822a \u9ad8\u5ea6 9600 \u8d77\u98de \u8dd1\u9053 18 \u8d77\u59cb \u4e0a\u5347 \u6807 \u538b 3000 \u4fdd\u6301 \u6807 \u538b 1016", "sentence2": "\u5de1\u822a \u9ad8\u5ea6 9600 \u8d77\u98de \u8dd1\u9053 18 \u8d77\u59cb \u4e0a\u5347 \u6807 \u538b 3000 \u4fdd\u6301 \u6807 \u538b 1016 \u7965\u9e4f 9922"}
+{"gold_label": "0", "sentence1": "\u4e0a\u822a 4929 \u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a \u5230 \u5de1\u822a \u9ad8\u5ea6 6000 \u518d\u89c1", "sentence2": "\u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a\u5347 \u5230 \u5de1\u822a \u9ad8\u5ea6 6000 \u4e0a\u822a 4929"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 6285 \u5de1\u822a \u9ad8\u5ea6 9500 \u8d77\u98de \u8dd1\u9053 24 \u8d77\u59cb \u4e0a\u5347 \u4fee\u6b63 \u6d77\u538b 3000 \u4fdd\u6301 \u4fee\u6b63 \u6d77\u538b 1016", "sentence2": "\u5de1\u822a \u9ad8\u5ea6 9500 \u8d77\u98de \u8dd1\u9053 24 \u8d77\u59cb \u4e0a\u5347 \u4fee \u538b 3000 \u4fdd\u6301 \u4fee \u538b 1016 \u897f\u85cf 6285"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9101 \u8dd1\u9053 27 L \u8d77\u98de \u4e86 \u6b63\u5728 \u4e0a\u5347 \u81f3 700", "sentence2": "\u8dd1\u9053 27 L \u8d77\u98de \u6b63\u5728 \u4e0a\u5347 \u5230 700 \u6df1\u5733 9101"}
+{"gold_label": "0", "sentence1": "CHH 7865 \u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 36 \u4fee \u538b 1001", "sentence2": "\u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 36 \u4fee \u538b 1001 CHH 7865"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 1308 \u5de1\u822a \u9ad8\u5ea6 9000 \u8d77\u98de \u8dd1\u9053 27 \u8d77\u59cb \u4e0a\u5347 \u6807\u51c6 \u6c14\u538b 3100 \u4fdd\u6301 \u6807\u51c6 \u6c14\u538b 1016", "sentence2": "\u5de1\u822a \u9ad8\u5ea6 9000 \u8d77\u98de \u8dd1\u9053 27 \u8d77\u59cb \u4e0a\u5347 \u6807\u51c6 \u6c14\u538b 3100 \u4fdd\u6301 \u6807\u51c6 \u6c14\u538b 1016 \u6df1\u5733 1308"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8580 \u5de1\u822a \u9ad8\u5ea6 5300 \u8d77\u98de \u8dd1\u9053 21 \u8d77\u59cb \u4e0a \u4fee\u6b63 \u6d77\u538b 3500 \u4fdd\u6301 \u4fee\u6b63 \u6d77\u538b 1016", "sentence2": "\u5de1\u822a \u9ad8\u5ea6 5300 \u8d77\u98de \u8dd1\u9053 21 \u8d77\u59cb \u4e0a \u4fee \u538b 3500 \u4fdd\u6301 \u4fee \u538b 1016 \u6625\u79cb 8580"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9121 P6 \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 17 L \u8d77\u98de \u53ef \u7528 \u957f\u5ea6 3000 \u7c73", "sentence2": "P6 \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 17 L \u8d77\u98de \u53ef \u7528 \u957f\u5ea6 3000 \u7c73 \u6df1\u5733 9121"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 9633 P6 \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 36 R \u8d77\u98de \u53ef \u7528 \u957f\u5ea6 3000 \u7c73", "sentence2": "P6 \u7b49\u5f85\u70b9 \u7b49\u5f85 \u8dd1\u9053 36 R \u8d77\u98de \u53ef \u7528 \u957f\u5ea6 3000 \u7c73 \u6df1\u5733 9633"}
+{"gold_label": "0", "sentence1": "\u7965\u9e4f 9922 \u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 27 \u5730\u9762 \u98ce 190 \u5ea6 7 \u7c73 \u6bcf\u79d2 \u4fee \u538b 1001", "sentence2": "\u76f4\u7ebf \u8fdb\u8fd1 \u8dd1\u9053 27 \u4fee \u538b 1001 \u7965\u9e4f 9922"}
+{"gold_label": "0", "sentence1": "THY 021 \u6ca1\u6709 \u8bc6\u522b \u8fd8 \u672a\u5230 \u96f7\u8fbe \u8986\u76d6 \u8303\u56f4 \u5185 \u6062\u590d \u81ea\u4e3b \u9886\u822a \u76f4\u98de \u671d\u9633 \u78c1 \u822a\u8ff9 200 \u8ddd\u79bb 32 \u516c\u91cc", "sentence2": "\u6062\u590d \u81ea\u4e3b \u9886\u822a \u76f4\u98de \u671d\u9633 THY 021"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2778 \u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a \u5230 \u5de1\u822a \u9ad8\u5ea6 6400 \u518d\u89c1", "sentence2": "\u6062\u590d \u81ea\u4e3b \u9886\u822a \u4e0a \u5230 \u5de1\u822a \u9ad8\u5ea6 6400 \u5965\u51ef 2778"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2747 \u8054\u7cfb \u4e1c\u65b9 \u5730\u9762 121 . 7", "sentence2": "121 . 7 \u5965\u51ef 2747"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 2763 \u5317\u4eac \u5854\u53f0 \u7ee7\u7eed \u8fdb\u8fd1 \u8fdc\u53f0 \u62a5", "sentence2": "\u7ee7\u7eed \u8fdb\u8fd1 \u8fdc\u53f0 \u62a5 \u56fd\u822a 2763"}
+{"gold_label": "0", "sentence1": "UAL 326 \u96f7\u8fbe \u770b\u5230 \u4e0a\u5347 \u5230 4500", "sentence2": "\u4e0a\u5347 \u5230 4500 UAL 326"}
+{"gold_label": "0", "sentence1": "DAL 185 \u4e0a\u5347 \u5230 \u6807\u51c6 \u6c14\u538b 6600 \u7c73 \u4fdd\u6301", "sentence2": "\u4e0a\u5347 \u5230 \u6807\u51c6 \u6c14\u538b 6600 \u7c73 DAL 185"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 4106 \u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 3", "sentence2": "\u5de1\u822a \u9ad8\u5ea6\u5c42 9800 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6312 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 3 \u56fd\u822a 4106"}
+{"gold_label": "0", "sentence1": "\u5357\u822a 3101 \u5de1\u822a \u9ad8\u5ea6\u5c42 5600 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6213 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 85", "sentence2": "\u5de1\u822a \u9ad8\u5ea6\u5c42 5600 \u7c73 \u4f7f\u7528 \u8dd1\u9053 28 \u5e94\u7b54 \u673a 6213 \u79bb\u5730 \u540e \u8054\u7cfb \u8fdb\u8fd1 123 . 85 \u5357\u822a 3101"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 1023 \u53f3\u8f6c A \u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u5417", "sentence2": "\u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u56fd\u822a 1023"}
+{"gold_label": "0", "sentence1": "\u56fd\u822a 1429 \u8bf7\u6c42 \u63a8\u51fa", "sentence2": "\u56fd\u822a 1429 \u7a0d \u7b49 \u63a8\u51fa \u524d\u9762 \u6709 \u6545\u969c"}
+{"gold_label": "0", "sentence1": "6296 \u8fdb\u8fd1 02 \u5de6", "sentence2": "\u8fdb\u8fd1 02 \u5de6 6296"}
+{"gold_label": "0", "sentence1": "\u4e0a\u6d77 \u533a\u57df \u987a\u4e30 3376 \u8bf7\u6c42 \u8f6c\u6362 \u9891\u7387 1175", "sentence2": "\u987a\u4e30 3376 \u4e0a\u6d77 \u533a\u57df \u540c\u610f \u8f6c\u6362 \u9891\u7387"}
+{"gold_label": "0", "sentence1": "CSC2125 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 10 \u70b9\u949f \u65b9\u4f4d 15 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "CSC2125 \u6ca1\u6709 \u770b\u5230 \u8bf7\u6c42 \u5f15\u5bfc"}
+{"gold_label": "0", "sentence1": "CCA342 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 1 \u70b9\u949f \u65b9\u4f4d 11 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "CCA342 \u770b\u5230 \u6d3b\u52a8"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u4e1c\u65b9 12927 \u53f7\u4f4d \u8bf7\u6c42 \u5f00\u8f66", "sentence2": "\u4e1c\u65b9 129 \u540c\u610f \u5f00\u8f66"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 \u5730\u9762 \u65e9\u4e0a\u597d \u56fd\u822a 151 \u673a\u578b \u6ce2\u97f3 737 \u7533\u8bf7 \u4e00\u4e2a \u505c\u673a\u4f4d", "sentence2": "\u56fd\u822a 151 \u505c\u673a\u4f4d 12 \u53f7"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5854\u53f0 \u5409\u7965 191324 \u53f7\u4f4d \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u5409\u7965 1913 \u5317\u4eac \u5854\u53f0 \u6ed1\u5230 18 \u5de6 \u8dd1\u9053 \u7b49\u5f85 \u70b9 \u5728 18 \u5de6 \u8dd1\u9053 \u5916 \u7b49\u5f85"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5854\u53f0 \u4e1c\u65b9 1712 \u91cd\u578b 27 \u53f7\u4f4d \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u4e1c\u65b9 1712 \u5317\u4eac \u5854\u53f0 \u6ed1\u5230 27 \u53f7\u4f4d \u7b49\u5f85 \u70b9"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3314 \u8fdb\u8fd1 24 \u53f3", "sentence2": "\u8fdb\u8fd1 24 \u53f3 \u5357\u65b9 3314"}
+{"gold_label": "0", "sentence1": "\u8fdb\u8fd1 \u5965\u51ef 2747 \u8bf7\u6c42 \u7ee7\u7eed \u4e0b\u964d", "sentence2": "\u5965\u51ef 2747 \u7ee7\u7eed \u4e0b\u964d \u5230 \u6807\u51c6\u6c14\u538b 2000 \u4fdd\u6301"}
+{"gold_label": "0", "sentence1": "CSC215 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 6 \u70b9\u949f \u65b9\u4f4d 15 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "CSC215 \u770b\u5230 \u6d3b\u52a8"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u5965\u51ef 882532 \u53f7\u4f4d \u8bf7\u6c42 \u53cd\u5411 \u6ed1\u884c", "sentence2": "\u5965\u51ef 8825 \u4e1c\u65b9 \u5854\u53f0 \u540c\u610f \u53cd\u5411 \u6ed1\u884c"}
+{"gold_label": "0", "sentence1": "ACA105 \u62a5\u544a \u901f\u5ea6", "sentence2": "\u901f\u5ea6 250 ACA105"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5854\u53f0 \u6df1\u5733 138936 \u53f7\u4f4d \u8bf7\u6c42 \u63a8\u51fa", "sentence2": "\u6df1\u5733 1389 \u5317\u4eac \u5854\u53f0 \u540c\u610f \u63a8\u51fa"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 2084 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u7a0d \u7b49 \u4e0a\u5347 \u7531\u4e8e \u95f4\u9694 \u4e1c\u65b9 2084"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 6319 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u7a0d \u7b49 \u4e0a\u5347 \u7531\u4e8e \u95f4\u9694 \u897f\u85cf 6319"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3082 \u8fdb\u8fd1 02 \u5de6", "sentence2": "\u8fdb\u8fd1 02 \u5de6 \u5357\u65b9 3082"}
+{"gold_label": "0", "sentence1": "AEA106 \u62a5\u544a \u901f\u5ea6", "sentence2": "\u901f\u5ea6 250 AEA106"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u5854\u53f0 \u897f\u85cf 6238 \u8bf7\u6c42 \u6ed1\u884c", "sentence2": "\u897f\u85cf 6238 \u6ed1\u5230 16 \u53f7 \u8dd1\u9053"}
+{"gold_label": "0", "sentence1": "\u56db\u5ddd 1128 \u8ddd \u82b1\u57a3 35 \u516c\u91cc \u62a5\u544a", "sentence2": "\u8ddd \u82b1\u57a3 35 \u516c\u91cc \u56db\u5ddd 1128"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u8fdb\u8fd1 \u897f\u85cf 6238 \u8bf7\u6c42 \u822a\u5411 110", "sentence2": "\u897f\u85cf 6238 \u5317\u4eac \u822a\u5411 110 \u540c\u610f \u8fdb\u8fd1"}
+{"gold_label": "0", "sentence1": "\u4e0a\u6d77 \u8fdb\u8fd1 \u6625\u79cb 8845 \u8bf7\u6c42 \u822a\u5411 140", "sentence2": "\u6625\u79cb 8845 \u4e0a\u6d77 \u822a\u5411 140 \u540c\u610f \u8fdb\u8fd1"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 6370 \u8bc1\u5b9e \u4e0b\u964d \u7387", "sentence2": "\u4e0b\u964d \u7387 1500 \u5357\u65b9 6370"}
+{"gold_label": "0", "sentence1": "AIC349 \u79bb\u5f00 6500 \u7c73 \u62a5\u544a", "sentence2": "\u79bb\u5f00 7500 \u7c73 AIC349"}
+{"gold_label": "0", "sentence1": "\u4e0a\u6d77 \u533a\u57df \u5409\u7965 4667 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a B1", "sentence2": "\u5409\u7965 4667 \u53ef\u4ee5 \u5728 DAL VOR \u7a7f\u8d8a B1 \u9ad8\u5ea6 4000 \u7c73"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2778 \u8054\u7cfb \u5e7f\u5dde 135 . 35 \u518d\u89c1", "sentence2": "135 . 35 \u5965\u51ef 2778"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 102 \u79bb\u5f00 5800 \u7c73 \u62a5\u544a", "sentence2": "\u6625\u79cb 102 \u79bb\u5f00 5800 \u7c73"}
+{"gold_label": "0", "sentence1": "\u6df1\u5733 \u5730\u9762 \u65e9\u4e0a\u597d \u56fd\u822a 6198 \u673a\u578b \u6ce2\u97f3 747 \u7533\u8bf7 \u4e00\u4e2a \u505c\u673a\u4f4d", "sentence2": "\u56fd\u822a 6198 \u505c\u673a\u4f4d 13 \u53f7"}
+{"gold_label": "0", "sentence1": "\u987a\u4e30 645 \u8ddd \u9b4f\u53bf 30 \u516c\u91cc \u62a5\u544a", "sentence2": "\u8ddd \u9b4f\u53bf 30 \u516c\u91cc \u987a\u4e30 645"}
+{"gold_label": "0", "sentence1": "\u8fdb\u8fd1 \u4e1c\u65b9 5337 \u8bf7\u6c42 \u7ee7\u7eed \u4e0a\u5347", "sentence2": "\u4e1c\u65b9 5337 \u7ee7\u7eed \u4e0a\u5347 \u5230 \u6807\u51c6\u6c14\u538b 5000 \u4fdd\u6301"}
+{"gold_label": "0", "sentence1": "\u8fdb\u8fd1 \u6625\u79cb 8719 \u8bf7\u6c42 \u7ee7\u7eed \u4e0b\u964d", "sentence2": "\u6625\u79cb 8719 \u7ee7\u7eed \u4e0b\u964d \u5230 \u6807\u51c6\u6c14\u538b 3000 \u4fdd\u6301"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 6319 \u4e0a\u6d77 \u62a5\u544a \u5f53\u524d \u4f4d\u7f6e", "sentence2": "\u8fc7 P4310 \u6d77\u91cc \u897f\u85cf 6319"}
+{"gold_label": "0", "sentence1": "CPA 6111 \u51b2\u7a81 \u89e3\u9664 \u6b63\u5728 \u8fd4\u56de \u8bb8\u53ef \u9ad8\u5ea6 \u4fdd\u6301 11000 \u7c73", "sentence2": "\u4e0a\u6d77 \u533a\u57df \u6536\u5230"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 5337 \u8bc1\u5b9e \u8868\u901f", "sentence2": "\u8868\u901f 300 \u4e1c\u65b9 5337"}
+{"gold_label": "0", "sentence1": "\u5317\u4eac \u533a\u57df \u56db\u5ddd 2110 \u8bf7\u6c42 \u5728 DAL VOR \u7a7f\u8d8a B2", "sentence2": "\u56db\u5ddd 2110 \u53ef\u4ee5 \u5728 DAL VOR \u7a7f\u8d8a B2 \u9ad8\u5ea6 5200 \u7c73"}
+{"gold_label": "0", "sentence1": "\u5409\u7965 1165 \u8d85\u8d8a \u524d\u673a A380 \u62a5\u544a", "sentence2": "\u5409\u7965 1165 \u5df2 \u8d85\u8d8a \u524d\u673a"}
+{"gold_label": "0", "sentence1": "AAR3213 \u79bb\u5f00 7500 \u7c73 \u62a5\u544a", "sentence2": "\u79bb\u5f00 7500 \u7c73 AAR3213"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8868 \u8d85\u8d8a \u524d\u673a A737 \u62a5\u544a", "sentence2": "\u6625\u79cb 8868 \u5df2 \u8d85\u8d8a \u524d\u673a"}
+{"gold_label": "0", "sentence1": "CAL503 TCAS RA \u544a\u8b66", "sentence2": "CAL503 \u6536\u5230 \u8fd4\u56de \u8bb8\u53ef \u9ad8\u5ea6 \u62a5\u544a"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 2369 \u51c6\u5907 \u597d\u62a5", "sentence2": "\u4e1c\u65b9 2369 \u51c6\u5907 \u597d \u4e86"}
+{"gold_label": "0", "sentence1": "AAL138 \u62a5\u544a \u9ad8\u5ea6", "sentence2": "\u9ad8\u5ea6 \u4fdd\u6301 3000 \u7c73 AAL138"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2963 \u770b\u5230 \u4e94 \u8fb9\u4e0a \u7684 \u7a7a\u5ba2 \u62a5\u544a", "sentence2": "\u770b\u5230 \u7a7a\u5ba2 \u4e86 \u5965\u51ef 2963"}
+{"gold_label": "0", "sentence1": "CES5321 \u79bb\u5f00 6500 \u7c73 \u62a5\u544a", "sentence2": "CES5321 \u79bb\u5f00 6500 \u7c73"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3530 \u8fdb\u8fd1 \u8dd1\u9053 17 \u5de6", "sentence2": "\u8dd1\u9053 17 \u5de6 \u8fdb\u8fd1 \u5357\u65b9 3530"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8845 \u8ddd \u9b4f\u53bf 20 \u516c\u91cc \u62a5\u544a", "sentence2": "\u8ddd \u9b4f\u53bf 20 \u516c\u91cc \u6625\u79cb 8845"}
+{"gold_label": "0", "sentence1": "AFR565 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 10 \u70b9\u949f \u65b9\u4f4d 15 \u6d77\u91cc \u4ece \u5de6\u5411\u53f3 \u7a7f\u8d8a \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "AFR565 \u6ca1\u6709 \u770b\u5230 \u8bf7\u6c42 \u5f15\u5bfc"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3530 36 \u5de6 \u53ef\u4ee5 \u843d\u5730", "sentence2": "36 \u5de6 \u53ef\u4ee5 \u843d\u5730 \u5357\u65b9 3530"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 2384 \u505c\u673a\u4f4d B1 \u5230\u4f4d \u62a5", "sentence2": "\u5730\u9762 \u4e1c\u65b9 2384 \u505c\u673a\u4f4d B1 \u5230\u4f4d \u4e86"}
+{"gold_label": "0", "sentence1": "UPS2921 \u8054\u7cfb \u4e1c\u65b9 \u533a\u57df 1275", "sentence2": "1275UPS2921"}
+{"gold_label": "0", "sentence1": "AMU866 \u4e0d\u660e \u98de\u884c \u6d3b\u52a8 6 \u70b9\u949f \u65b9\u4f4d 8 \u516c\u91cc \u76f8\u5bf9 \u98de\u884c \u5feb\u901f \u79fb\u52a8 \u770b\u5230 \u6d3b\u52a8 \u62a5\u544a", "sentence2": "\u6b63\u5728 \u89c2\u5bdf AMU866"}
+{"gold_label": "0", "sentence1": "\u56db\u5ddd 4521 \u8bc1\u5b9e P3 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "P3 \u8fdb \u8dd1\u9053 \u8d77\u98de \u53ef\u4ee5 \u56db\u5ddd 4521"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3512 \u7ee7\u7eed \u8fdb\u8fd1 36 \u5de6 \u901f\u5ea6 \u8c03 \u6700\u5c0f", "sentence2": "\u7ee7\u7eed \u8fdb\u8fd1 36 \u5de6 \u901f\u5ea6 \u8c03 \u6700\u5c0f \u5357\u65b9 3512"}
+{"gold_label": "0", "sentence1": "AIC349 \u79bb\u5f00 6500 \u7c73 \u62a5\u544a", "sentence2": "AIC349 \u79bb\u5f00 6500 \u7c73"}
+{"gold_label": "0", "sentence1": "\u56db\u5ddd 623815L \u5916 \u7b49 \u8bf7\u6c42 \u7a7f\u8d8a \u8dd1\u9053", "sentence2": "\u56db\u5ddd 6238 \u53ef\u4ee5 \u7a7f\u8d8a \u8dd1\u9053 15L"}
+{"gold_label": "0", "sentence1": "CCA1730 \u79bb\u5f00 6800 \u7c73 \u62a5\u544a", "sentence2": "CCA1730 \u79bb\u5f00 6800 \u7c73"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 5333 \u8bc1\u5b9e P5 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "P5 \u8fdb \u8dd1\u9053 \u8d77\u98de \u53ef\u4ee5 \u4e1c\u65b9 5333"}
+{"gold_label": "0", "sentence1": "AFR265 unknow traffic 1 o'clock15 kilometers opposite direction fast moving report traffic in sight", "sentence2": "AFR265 rogertraffic in sight"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3512 02 \u5de6 \u53ef\u4ee5 \u843d\u5730", "sentence2": "02 \u5de6 \u53ef\u4ee5 \u843d\u5730 \u5357\u65b9 3512"}
+{"gold_label": "0", "sentence1": "CSC215 unknow traffic 3 o'clock12 kilometers opposite direction fast moving report traffic in sight", "sentence2": "CSC215 rogertraffic in sight"}
+{"gold_label": "0", "sentence1": "CSC2125 unknow traffic 4 o'clock14 miles crossing left to rightfast moving report traffic in sight", "sentence2": "CSC2125 negative contact request vectors"}
+{"gold_label": "0", "sentence1": "\u5357\u65b9 3363 \u8dd1\u9053 \u5916 \u7b49\u5f85", "sentence2": "\u8dd1\u9053 \u5916 \u7b49\u5f85 \u5357\u65b9 3363"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u5965\u51ef 08027 \u53f7\u4f4d \u8bf7\u6c42 \u5f00\u8f66", "sentence2": "\u5965\u51ef 080 \u540c\u610f \u5f00\u8f66"}
+{"gold_label": "0", "sentence1": "AEA106 report speed", "sentence2": "speed 250 knots AEA106"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2719 \u8bc1\u5b9e P2 \u8fdb \u8dd1\u9053 \u8d77\u98de \u6ca1\u6709 \u95ee\u9898", "sentence2": "P2 \u8fdb \u8dd1\u9053 \u8d77\u98de \u53ef\u4ee5 \u5965\u51ef 2719"}
+{"gold_label": "0", "sentence1": "AFR109 \u62a5\u544a \u901f\u5ea6", "sentence2": "\u901f\u5ea6 250 AFR109"}
+{"gold_label": "0", "sentence1": "SLA5188 contact Dongfang Control 1192", "sentence2": "1192 SLA5188"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u5409\u7965 12929 \u53f7\u4f4d \u8bf7\u6c42 \u5f00\u8f66", "sentence2": "\u5409\u7965 129 \u9884\u8ba1 \u5ef6\u8bef \u4e00\u5206\u949f \u5f00\u8f66"}
+{"gold_label": "0", "sentence1": "CES5301 cross Runway 22 report vacated", "sentence2": "CES5301 runway vacated"}
+{"gold_label": "0", "sentence1": "AHK8783 cross Runway 22 report vacated", "sentence2": "AHK8783 runway vacated"}
+{"gold_label": "0", "sentence1": "CSN3201 cross Runway 22 report vacated", "sentence2": "CSN3201 runway vacated"}
+{"gold_label": "0", "sentence1": "CSN6723 cross Runway 22 report vacated", "sentence2": "CSN6723 runway vacated"}
+{"gold_label": "0", "sentence1": "\u897f\u85cf 9811 \u8054\u7cfb \u4e0a\u6d77 132 . 45 \u518d\u89c1", "sentence2": "132 . 45 \u518d\u89c1 \u897f\u85cf 9811"}
+{"gold_label": "0", "sentence1": "\u4e1c\u65b9 \u5854\u53f0 \u56fd\u822a 124927 \u53f7\u4f4d \u8bf7\u6c42 \u5f00\u8f66", "sentence2": "\u56fd\u822a 1249 \u9884\u8ba1 \u5f00\u8f66 40 \u5206"}
+{"gold_label": "0", "sentence1": "CAL2812 report 22 kilomerters form WXI DME", "sentence2": "22 kilomerters form WXI DME CAL2812"}
+{"gold_label": "0", "sentence1": "CXN8841please report your indicate airspeed", "sentence2": "roger indicate airspeed 280 konts CXN8841"}
+{"gold_label": "0", "sentence1": "QNH1020please report your indicate airspeed", "sentence2": "roger indicate airspeed 210 konts QNH1020"}
+{"gold_label": "0", "sentence1": "G - CD \u76f4\u63a5 \u8fdb\u8fd1 16 \u53f7 \u8dd1\u9053 \u5730\u9762 \u98ce 190 \u5ea6 5 \u7c73 \u6bcf\u79d2 \u573a \u538b 1015", "sentence2": "\u76f4\u63a5 \u8fdb\u8fd1 16 \u53f7 \u8dd1\u9053 \u5730\u9762 \u98ce 190 \u5ea6 5 \u7c73 \u6bcf\u79d2 \u573a \u538b 1015 G - CD"}
+{"gold_label": "0", "sentence1": "SIA5188 gate C3 report when rady", "sentence2": "ground SIA5188 gate C3 flight plan submitted"}
+{"gold_label": "0", "sentence1": "kunming delivery CCA4478 on gate A3 request clearance to hongqiao", "sentence2": "CCA4478cleared to shanghai airport as filed"}
+{"gold_label": "0", "sentence1": "\u5965\u51ef 2747 \u8bf7 \u62a5\u544a \u7a7a\u901f", "sentence2": "\u6536\u5230 \u6307\u793a \u7a7a\u901f 250 \u8282\u5965\u51ef 2747"}
+{"gold_label": "0", "sentence1": "GIA893 hold short of runway 16L request cross runway", "sentence2": "GIA893 cleared cross runway 16L"}
+{"gold_label": "0", "sentence1": "DAL185 hold short of runway 12L request cross runway", "sentence2": "DAL185 cleared cross runway 12L"}
+{"gold_label": "0", "sentence1": "ANZ080 hold short of runway 17R request cross runway", "sentence2": "ANA080 cleared cross runway 17R"}
+{"gold_label": "0", "sentence1": "CES5121 turn left join A do you have the follow me car insight", "sentence2": "follow me car insight CES5121"}
+{"gold_label": "0", "sentence1": "CES3312 turn left join B do you have the follow me car insight", "sentence2": "follow me car insight CES3312"}
+{"gold_label": "0", "sentence1": "CDG4670 turn left join B do you have the follow me car insight", "sentence2": "follow me car insight CDG4670"}
+{"gold_label": "0", "sentence1": "dongfang control GCR7769 request to cross C5 at DAL VOR", "sentence2": "GCR7769 cleared to cross C5 at DAL VOR at 3800 meters"}
+{"gold_label": "0", "sentence1": "\u6625\u79cb 8868 \u5de6\u8f6c A \u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u5417", "sentence2": "\u76ee\u89c6 \u5f15\u5bfc \u8f66 \u4e86 \u6625\u79cb 8868"}
